@@ -17,6 +17,14 @@
               trigger : 'hover'
           });
       });
+
+      function openNav() {
+        document.getElementById("mySidenav").style.width = "250px";
+      }
+      
+      function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+      }
     </script>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link type="application/atom+xml" rel="alternate" href="/feed.xml" />
@@ -34,10 +42,34 @@
       <header>
         <div class="container text-center mb-3 mt-3">
           <link rel="shortcut icon" type="image/png" href="/favicon.png">
-<a class="post-link" href="/">
-    <img src="/assets/images/banner.png" class="img-fluid"
-</a>
-          <nav>
+<div class="row">
+    <div class="d-md-none col-2">
+        <a class="accented-link" href="javascript:void(0)" onclick="openNav()"><h1>&#9776;</h1></a>
+    </div>
+    <div class="col-10 col-md-12">
+        <a class="post-link" href="/">
+            <img src="/assets/images/banner.png" class="img-fluid">
+        </a>
+    </div>
+</div>
+          <div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    
+      <a href="/"> 
+          Home
+      </a>
+    
+      <a href="/about.html"> 
+          About
+      </a>
+    
+      <a href="/authors.html"> 
+          Authors
+      </a>
+    
+</div>
+<div class="d-none d-md-block">
+  <nav>
     
       <a href="/" 
         
@@ -60,51 +92,62 @@
           Authors
       </a>
     
-</nav>
+  </nav>
+</div>
         </div>
       </header>
       <main role="main">
           <div class="container">
-              <div>
-                <h1>Contributing Authors</h1>
+            <div>
+              <div class="row">
+  <div class="col-md-2"></div>
+  <div class="col-md-8">
+    <h1>Contributing Authors</h1>
 
+    
+      <a class="post-link" href="/authors/chev.html">
+        <div class="media">
+          <img src="/assets/images/profiles/chev.jpg" class="mr-3 author-pic-sm" alt="Chev Eldrid">
+          <div class="media-body">
+            <h5 class="mt-0 mb-0">Chev Eldrid</h5>
+            <p>One of the founding members of the Brew Crew, Chev focuses on Commander formats and more casual play</p>
 
-  <a class="post-link" href="/authors/chev.html">
-    <div class="media">
-      <img src="/assets/images/profiles/chev.jpg" class="mr-3 author-pic-sm" alt="Chev Eldrid">
-      <div class="media-body">
-        <h5 class="mt-0 mb-0">Chev Eldrid</h5>
-        <p>One of the founding members of the Brew Crew, Chev focuses on Commander formats and more casual play</p>
+          </div>
+        </div>
+      </a>
+    
+      <a class="post-link" href="/authors/julian.html">
+        <div class="media">
+          <img src="/assets/images/profiles/julian.jpeg" class="mr-3 author-pic-sm" alt="Julian Leal">
+          <div class="media-body">
+            <h5 class="mt-0 mb-0">Julian Leal</h5>
+            <p>Julian is the other Brew Crew. He’s a big rock guy. Biiiig rock guy.</p>
 
-      </div>
-    </div>
-  </a>
+          </div>
+        </div>
+      </a>
+    
+  </div>
+</div>
 
-  <a class="post-link" href="/authors/julian.html">
-    <div class="media">
-      <img src="/assets/images/profiles/julian.jpeg" class="mr-3 author-pic-sm" alt="Julian Leal">
-      <div class="media-body">
-        <h5 class="mt-0 mb-0">Julian Leal</h5>
-        <p>Julian is the other Brew Crew. He’s a big rock guy. Biiiig rock guy.</p>
-
-      </div>
-    </div>
-  </a>
-
-
-              </div>
-              <hr />
+            </div>
           </div>
       </main>
       <footer>
     <div class="container">
         <div class="row">
-            <div class="col">
-                <p>&copy; Brew Crew 2020</p>
-            </div>
-            <div class="col">
-                <p class="text-right"><a href="mailto:itsthebrewcrew@gmail.com?subject=Site%20Link">Contact Us!</a></p>
-            </div>
+            
+                <div class="col-md-2"></div>
+                <div class="col-md-8">
+                    <hr />
+                    <div class="float-left">
+                        <p>&copy; Brew Crew 2020</p>
+                    </div>
+                    <div class="float-right">
+                        <p class="text-right"><a href="mailto:itsthebrewcrew@gmail.com?subject=Site%20Link">Contact Us!</a></p>
+                    </div>
+                </div>
+            
         </div>
     </div>
 </footer>

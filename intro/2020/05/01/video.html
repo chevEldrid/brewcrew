@@ -17,6 +17,14 @@
               trigger : 'hover'
           });
       });
+
+      function openNav() {
+        document.getElementById("mySidenav").style.width = "250px";
+      }
+      
+      function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+      }
     </script>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link type="application/atom+xml" rel="alternate" href="/feed.xml" />
@@ -39,10 +47,34 @@
       <header>
         <div class="container text-center mb-3 mt-3">
           <link rel="shortcut icon" type="image/png" href="/favicon.png">
-<a class="post-link" href="/">
-    <img src="/assets/images/banner.png" class="img-fluid"
-</a>
-          <nav>
+<div class="row">
+    <div class="d-md-none col-2">
+        <a class="accented-link" href="javascript:void(0)" onclick="openNav()"><h1>&#9776;</h1></a>
+    </div>
+    <div class="col-10 col-md-12">
+        <a class="post-link" href="/">
+            <img src="/assets/images/banner.png" class="img-fluid">
+        </a>
+    </div>
+</div>
+          <div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    
+      <a href="/"> 
+          Home
+      </a>
+    
+      <a href="/about.html"> 
+          About
+      </a>
+    
+      <a href="/authors.html"> 
+          Authors
+      </a>
+    
+</div>
+<div class="d-none d-md-block">
+  <nav>
     
       <a href="/" 
         
@@ -65,41 +97,54 @@
           Authors
       </a>
     
-</nav>
+  </nav>
+</div>
         </div>
       </header>
       <main role="main">
           <div class="container">
-              <div>
-                <img src="/assets/images/emrakul.jpg" class="img-fluid width-full" alt="welcome!">
-<h4 class="post-category">Intro</h4>
-<h1>Video</h1>
+            <div>
+              <div class="row">
+  <div class="col-md-2"></div>
+  <div class="col-md-8">
+    <img src="/assets/images/emrakul.jpg" class="img-fluid width-full" alt="welcome!">
+    <h4 class="post-category">Intro</h4>
+    <h1>Video</h1>
 
-<p class="author-block">
-  
-  
-    <img src="/assets/images/profiles/chev.jpg" class="img-fluid rounded-circle author-pic-sm" alt="Chev Eldrid">
-    <a class="accented-link" href="/authors/chev.html">Chev Eldrid</a>
-  
-  <br />
-  01 May 2020 
-  
-  - 6 min read
-  
-</p>
-<hr/>
-
-<div class="row">
-  <div class="col-2"></div>
-  <div class="col-8">
-    <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+    <p class="author-block">
+      
+      
+        <div class="col-md-3">
+          <div class="row">
+            <div class="float-left">
+              <img src="/assets/images/profiles/chev.jpg" class="img-fluid rounded-circle author-pic-sm" alt="Chev Eldrid">
+            </div>
+            <div class="float-right ml-1">
+              <a class="accented-link" href="/authors/chev.html">Chev Eldrid</a>
+              
+                <br />
+                <a class="accented-link-two" href="https://twitch.com/@chevEldrid">@chevEldrid</a>
+              
+            </div>
+          </div>
+        </div>
+      
+      <br />
+      01 May 2020 
+      
+      - 6 min read
+      
+    </p>
+    <hr/>
+    
+    <div class="row">
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+      </div>
     </div>
-  </div>
-</div>
-  <br />
-
-Here we test...the video! Looks pretty great right?
+      <br />
+    
+    Here we test...the video! Looks pretty great right?
 
 <p>
     And if you want to buy a card...try this!
@@ -114,35 +159,42 @@ Here we test...the video! Looks pretty great right?
     </a>
 </p>
 
-<p>More Entries in <b>Intro</b>:</p>
-<ul>
-  
-    
-  
-    
-      <li><a href="/intro/2020/04/30/welcome.html">Welcome</a></li>
-    
-  
-    
-  
-    
-  
-    
-  
-</ul>
-              </div>
-              <hr />
+    <p>More Entries in <b>Intro</b>:</p>
+    <ul>
+      
+        
+      
+        
+          <li><a href="/intro/2020/04/30/welcome.html">Welcome</a></li>
+        
+      
+        
+      
+        
+      
+        
+      
+    </ul>
+  </div>
+</div>
+            </div>
           </div>
       </main>
       <footer>
     <div class="container">
         <div class="row">
-            <div class="col">
-                <p>&copy; Brew Crew 2020</p>
-            </div>
-            <div class="col">
-                <p class="text-right"><a href="mailto:itsthebrewcrew@gmail.com?subject=Site%20Link">Contact Us!</a></p>
-            </div>
+            
+                <div class="col-md-2"></div>
+                <div class="col-md-8">
+                    <hr />
+                    <div class="float-left">
+                        <p>&copy; Brew Crew 2020</p>
+                    </div>
+                    <div class="float-right">
+                        <p class="text-right"><a href="mailto:itsthebrewcrew@gmail.com?subject=Site%20Link">Contact Us!</a></p>
+                    </div>
+                </div>
+            
         </div>
     </div>
 </footer>
