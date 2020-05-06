@@ -1,0 +1,25 @@
+.accented-link { color: #c23b3b; }
+
+.accented-link:hover { color: #c23b3b; }
+
+.unselected { color: black; }
+
+.unselected:hover { color: black; }
+
+.post-category { color: #c23b3b; }
+
+.author-pic-sm { height: 50px; width: 50px; }
+
+.author-pic-lg { height: 100px; width: 100px; }
+
+.crop-contain { max-height: 250px; overflow: hidden; }
+
+.author-post { display: block; max-width: 100%; height: auto !important; width: 100%; }
+
+.width-full { width: 100%; }
+
+.post-link { text-decoration: none; color: black; }
+
+.post-link:hover { text-decoration: none; color: black; }
+
+/*# sourceMappingURL=styles.css.map */
