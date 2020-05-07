@@ -2,6 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Chev Eldrid, Author - Brew Crew</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="/assets/css/styles.css">
@@ -10,23 +11,8 @@
 			  integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ="
         crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
-    <script>
-      $(document).ready(function(){
-          $('[data-toggle="popover"]').popover({
-              html : true,
-              trigger : 'hover'
-          });
-      });
-
-      function openNav() {
-        document.getElementById("mySidenav").style.width = "250px";
-      }
-      
-      function closeNav() {
-        document.getElementById("mySidenav").style.width = "0";
-      }
-    </script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Custom js for popovers, nav toggle-->
+    <script src="/assets/js/main.js"></script>
     <link type="application/atom+xml" rel="alternate" href="/feed.xml" />
     <!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>Chev Eldrid, Author - Brew Crew</title>
@@ -36,9 +22,9 @@
 <meta name="description" content="One of the founding members of the Brew Crew, Chev focuses on Commander formats and more casual play" />
 <meta property="og:description" content="One of the founding members of the Brew Crew, Chev focuses on Commander formats and more casual play" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2020-05-07T10:11:06-04:00" />
+<meta property="article:published_time" content="2020-05-07T19:27:09-04:00" />
 <script type="application/ld+json">
-{"headline":"Chev Eldrid, Author - Brew Crew","description":"One of the founding members of the Brew Crew, Chev focuses on Commander formats and more casual play","datePublished":"2020-05-07T10:11:06-04:00","dateModified":"2020-05-07T10:11:06-04:00","@type":"BlogPosting","url":"/authors/chev.html","mainEntityOfPage":{"@type":"WebPage","@id":"/authors/chev.html"},"@context":"https://schema.org"}</script>
+{"mainEntityOfPage":{"@type":"WebPage","@id":"/authors/chev.html"},"description":"One of the founding members of the Brew Crew, Chev focuses on Commander formats and more casual play","@type":"BlogPosting","url":"/authors/chev.html","headline":"Chev Eldrid, Author - Brew Crew","dateModified":"2020-05-07T19:27:09-04:00","datePublished":"2020-05-07T19:27:09-04:00","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <!--Google Analytics-->
@@ -69,7 +55,8 @@
         </a>
     </div>
 </div>
-          <div id="mySidenav" class="sidenav">
+          <!--mobile sidebar-->
+<div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
     
       <a href="/"> 
@@ -85,6 +72,7 @@
       </a>
     
 </div>
+<!--Desktop navigation-->
 <div class="d-none d-md-block">
   <nav>
     
@@ -171,9 +159,11 @@
       <footer>
     <div class="container">
         <div class="row">
+            <!--Temp solution...probably should find something better-->
             
                 <div class="col-md-2"></div>
                 <div class="col-md-8">
+            
                     <hr />
                     <div class="float-left">
                         <p>&copy; Brew Crew 2020</p>
@@ -182,7 +172,6 @@
                         <p class="text-right"><a href="mailto:itsthebrewcrew@gmail.com?subject=Site%20Link">Contact Us!</a></p>
                     </div>
                 </div>
-            
         </div>
     </div>
 </footer>

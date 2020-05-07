@@ -2,6 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Brew Crew</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="/assets/css/styles.css">
@@ -10,23 +11,8 @@
 			  integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ="
         crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
-    <script>
-      $(document).ready(function(){
-          $('[data-toggle="popover"]').popover({
-              html : true,
-              trigger : 'hover'
-          });
-      });
-
-      function openNav() {
-        document.getElementById("mySidenav").style.width = "250px";
-      }
-      
-      function closeNav() {
-        document.getElementById("mySidenav").style.width = "0";
-      }
-    </script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Custom js for popovers, nav toggle-->
+    <script src="/assets/js/main.js"></script>
     <link type="application/atom+xml" rel="alternate" href="/feed.xml" />
     <!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>Brew Crew</title>
@@ -34,7 +20,7 @@
 <meta property="og:title" content="Brew Crew" />
 <meta property="og:locale" content="en_US" />
 <script type="application/ld+json">
-{"headline":"Brew Crew","@type":"WebSite","url":"/","@context":"https://schema.org"}</script>
+{"@type":"WebSite","url":"/","headline":"Brew Crew","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <!--Google Analytics-->
@@ -65,7 +51,8 @@
         </a>
     </div>
 </div>
-          <div id="mySidenav" class="sidenav">
+          <!--mobile sidebar-->
+<div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
     
       <a href="/"> 
@@ -81,6 +68,7 @@
       </a>
     
 </div>
+<!--Desktop navigation-->
 <div class="d-none d-md-block">
   <nav>
     
@@ -226,8 +214,10 @@ of large herbaceous flowering plants in the genus Musa.</p>
       <footer>
     <div class="container">
         <div class="row">
+            <!--Temp solution...probably should find something better-->
             
                 <div class="col-md-12">
+            
                     <hr />
                     <div class="float-left">
                         <p>&copy; Brew Crew 2020</p>
@@ -236,7 +226,6 @@ of large herbaceous flowering plants in the genus Musa.</p>
                         <p class="text-right"><a href="mailto:itsthebrewcrew@gmail.com?subject=Site%20Link">Contact Us!</a></p>
                     </div>
                 </div>
-            
         </div>
     </div>
 </footer>
