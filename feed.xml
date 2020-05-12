@@ -1,43 +1,486 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-05-07T19:27:09-04:00</updated><id>/feed.xml</id><entry><title type="html">Video</title><link href="/intro/2020/05/01/video.html" rel="alternate" type="text/html" title="Video" /><published>2020-05-01T00:00:00-04:00</published><updated>2020-05-01T00:00:00-04:00</updated><id>/intro/2020/05/01/video</id><content type="html" xml:base="/intro/2020/05/01/video.html">Here we test...the video! Looks pretty great right?
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-12T11:02:48-04:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Nikya the Old-Fashioned</title><link href="http://localhost:4000/drunk%20commander/2020/05/11/drunk_commander_1.html" rel="alternate" type="text/html" title="Nikya the Old-Fashioned" /><published>2020-05-11T00:00:00-04:00</published><updated>2020-05-11T00:00:00-04:00</updated><id>http://localhost:4000/drunk%20commander/2020/05/11/drunk_commander_1</id><content type="html" xml:base="http://localhost:4000/drunk%20commander/2020/05/11/drunk_commander_1.html">&lt;p&gt;Everyone has their pet decks. In Commander, where cards don’t rotate and power creep is directly proportional to your income, this is especially true. 
+&lt;!--more--&gt;
+These are the decks you’ve been grooming for years to be just the right amount of absolute carnage without sending your pod over the edge in frustration. I’m talking countless hours spent scrolling through Edhrec or running your thousandth hand draw on Tappedout to check the consistency of getting 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c17/48/the-ur-dragon?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/7/e/7e78b70b-0c67-4f14-8ad7-c9f8e3f59743.jpg?1562614382' width=100% height=100%&amp;gt;&quot;&gt;
+	The Ur-Dragon
+&lt;/a&gt; out a turn early.&lt;/p&gt;
+
+&lt;p&gt;We won’t be talking about those.&lt;/p&gt;
+
+&lt;p&gt;For everything I love about the Commander format, there are drawbacks for needing to pay attention for hours at a time and remember the incredible amount of combo potential in the legacy card pool. Should you counter that 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/bbd/229/savage-ventmaw?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/4/7/471cd229-c80f-4dc5-a174-96984fc80a2f.jpg?1562909475' width=100% height=100%&amp;gt;&quot;&gt;
+	Savage Ventmaw
+&lt;/a&gt;? Are they holding a 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ons/185/aggravated-assault?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/c/9/c99c5707-d5f2-4675-bfca-e801e6b0f627.jpg?1562942627' width=100% height=100%&amp;gt;&quot;&gt;
+	Aggravated Assault
+&lt;/a&gt;? Who knows! Whatever you decide to do, odds are it’s the wrong play and you’ll be left kicking yourself.&lt;/p&gt;
+
+&lt;p&gt;Who needs that negativity in their lives?&lt;/p&gt;
+
+&lt;p&gt;You’re here to have fun and take names, catch up with friends and show off your new blinged-out Islands. Throw in a pint or two, maybe a Rum and Coke channeling your inner 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/xln/217/admiral-beckett-brass?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/9/8/9854c2ec-0e53-4ac7-b417-554a9331c5e0.jpg?1562560523' width=100% height=100%&amp;gt;&quot;&gt;
+	Admiral Beckett Brass
+&lt;/a&gt; and there’s no way you want to keep track of a “stack” on top of all that.&lt;/p&gt;
+
+&lt;p&gt;Here at the Brew Crew, we completely understand. Not every game needs to be played to the top of your ability, sometimes you just want to be in the driver’s seat of a wrecking ball and break things. Introducing our brand new series:&lt;/p&gt;
+
+&lt;h1 class=&quot;text-center&quot;&gt;Drunk Commander&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;
+I’m sure we’ve all been wondering what decks hold up the best under inebriation - and the Brew Crew is going to make the necessary sacrifices to find out. Each of the builds featured in these articles will be heavily tested for playability in both sober and intoxicated conditions. We’ll figure out how they handle against higher tier decks, and if all commanders really do pair best with the drink that provides the best pun of their name. Stay tuned.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What makes a good Drunk commander?&lt;/strong&gt;
+What are the characteristics of a general that can withstand the effects of alcohol the greatest? One option is commanders that promote a very linear strategy. They do one thing, and one thing only. Generally that’s going to be something like smashing face. This might include the likes of…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/drunkCommander/dc1/drunkCommander1-1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Maelstrom is all kinds of threat, and relies on a deck just packed with Temur good stuff since Cascade gives you no real say in what’s coming. All you know is it’s going to be big, destructive, and need to be answered. Oh, and will have haste because of course.&lt;/p&gt;
+
+&lt;p&gt;Borborygmos is a little more nuanced. IHe wants to hit all of the things all of the time. Considering every time he deals combat damage to your opponents he’ll buff your entire squad…it makes sense to keep him in that state as much as possible. If we’ve learned anything from Finding Nemo, it’s just keep swinging. Sure you might include some strategy with +1/+1 counters or tokens but you really don’t need to. Why make things more complicated?&lt;/p&gt;
+
+&lt;p&gt;Xenagos has been a format powerhouse for years. Not only can he often dodge creature removal with the Theros god clause, Xenagos’s combat trigger will always hit some big creature you ramped into doing what green does best. And with haste!! Again it simply won’t matter that you ignored the last three creatures played and a Rhystic Study, you’re swinging for 20 off the back of a 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m19/185/gigantosaurus?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/c/1/c1db84d8-d426-4c0d-b44e-5be7b0f5f5bf.jpg?1562303938' width=100% height=100%&amp;gt;&quot;&gt;
+	Gigantosaurus
+&lt;/a&gt; while leaning back and sipping a Salty Dog. The only tech you need to know is bigger numbers = better.&lt;/p&gt;
+
+&lt;p&gt;The other characteristic to look for in a strong drunk commander is commanders that have inherent restrictions on what things players can do or when players can do said things. The best cases are when these restrictions apply to opponents. Maybe they can’t cast spells during combat, removing the need to worry about combat tricks. Maybe they can’t destroy your creatures. Perfect! Swing with abandon! For this type of deck we turn to:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/drunkCommander/dc1/drunkCommander1-2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We see three types of restrictions with this selection. Basandra prevents anyone from casting spells during combat. Not only are you stopping your opponents from instant speed removing your creatures or buffing their own, but also…and potentially more importantly…you’re eliminating the need for &lt;em&gt;you&lt;/em&gt; to worry about playing combat tricks! It’s this kind of secret tech we’re always looking for here on Drunk Commanders.&lt;/p&gt;
+
+&lt;p&gt;Marisi requires a higher level of play in that now we might want to keep a few instant speed tricks up our sleeve…but that can turn out to be okay! You WILL need to focus for at least your own turn. I know, I know, but you’ll have plenty of time to slump right after your end step. Marisi prevents opponents from interacting with your combat &lt;em&gt;and&lt;/em&gt; will force their creatures to swing back. Couldn’t be more straightforward! You can swing out besides maybe one big creature to caution the swing-back and keep on groovin.&lt;/p&gt;
+
+&lt;p&gt;Nikya makes it so opponents can’t play noncreature spells, that’s amazing! Wait…hmm…oh. Oh WE can’t play noncreature spells. Well hang on that could be a good thing! We’re all about reducing necessary brain power so frankly this is a serious upside. Unless you got something out there granting flash the only turn you have to worry about is your own! Plus, that secondary ability easily makes up for the restriction and then some. Double mana from lands?? In Green?! Can you imagine how fast you could windmill slam a 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/grn/273/impervious-greatwurm?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/f/5/f5e6dc5f-fd83-4166-a5da-cd953722642a.jpg?1572894315' width=100% height=100%&amp;gt;&quot;&gt;
+	Impervious Greatwurm
+&lt;/a&gt;? It’s just absolutely nuts. Opponents will be so busy attempting to deal with you, you won’t even miss the instants and sorceries.&lt;/p&gt;
+
+&lt;p&gt;Hopefully you’re starting to get an idea of what we’re looking for here. Generally we want big beefy bodies that are threats themselves while also limiting interaction in some key way. Either it’s preventing opponents from stopping your drunken onslaught, or it’s narrowly focusing your game plan until even three Old Fashioneds can’t slow your roll.&lt;/p&gt;
+
+&lt;p&gt;Which brings us to our first highlighted General among those most likely to pair well with a Pacific Rim.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nikya of the Old Fashioned&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Like the best Old Fashioneds, Nikya can be a little hard to swallow at first but I assure you it gets so much better. This build is actually what inspired the entire series and I highly recommend giving it a shot!&lt;/p&gt;
+
+&lt;p&gt;Gruul’s vibe is generally a drunken rampage, and Nikya is no exception. While a 5/5 for 5 is no great feat in these colors the sheer destruction double mana can wreck cannot be overstated. One only needs to look at format staples like 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c17/160/zendikar-resurgent?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/3/3/33f64032-1e87-4d22-a211-c37e11ffa247.jpg?1562604623' width=100% height=100%&amp;gt;&quot;&gt;
+	Zendikar Resurgent
+&lt;/a&gt; to realize how powerful the effect is - and how quickly it gets out of hand. The Raze-Boar would be proud.&lt;/p&gt;
+
+&lt;p&gt;Most green commander decks will focus on a ramp package with spells like 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mb1/1176/cultivate?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/4/7/47086c14-f451-47da-845b-2a256930d067.jpg?1573513429' width=100% height=100%&amp;gt;&quot;&gt;
+	Cultivate
+&lt;/a&gt; or 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/uma/171/kodamas-reach?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/1/0/102d20e6-5179-44b7-9abd-f1defc15ca6a.jpg?1547517639' width=100% height=100%&amp;gt;&quot;&gt;
+	Kodama’s Reach
+&lt;/a&gt; to get the job done…but honestly those are kind of lame, so lame Nikya won’t even let you play them once Nikya gets on the field. Fret not! We got you covered. Enter the creature ramp dream team:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/drunkCommander/dc1/drunkCommander1-3.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;While their rate might be a little slower than some of the noncreature counterparts, these guys still put you ahead on turn three so you can successfully drop Nikya turn four. Don’t even need to worry about any of that non-creature stuff. We’ll round out the mana package with a couple dorks, particularly 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mb1/1124/arbor-elf?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/e/0/e092bdd5-af65-44ce-8f72-519801115d82.jpg?1573513052' width=100% height=100%&amp;gt;&quot;&gt;
+	Arbor Elf
+&lt;/a&gt; and 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mb1/1138/birds-of-paradise?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/e/6/e6bc963e-042f-4cdc-be38-de8e386c00b3.jpg?1573513153' width=100% height=100%&amp;gt;&quot;&gt;
+	Birds of Paradise
+&lt;/a&gt;. The former letting a forest tap for a potentially obscene 4 mana, and the other doing a bit of color fixing. Nikya’s power comes from the land count so we’re doing what we can to encourage ramp over dorks - but some are just too good to pass up.&lt;/p&gt;
+
+&lt;p&gt;After that will come the removal suite. There’s no easy way to say this…but if you adhere to the doctrine of drunk magic there is a chance your opponents will have more brain power at their disposal. Ideally, they’ve followed your impressive lead in imbibing themselves, in which case you take the advantage of a linear-strategy deck. But should they be, dare I say, sober…you need ways to rid the table of the threat they may possess. I’m talking about creatures with those sweet sweet ETBs!!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/drunkCommander/dc1/drunkCommander1-4.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Much of the removal package is focused on versatility at a higher cmc which we can afford thanks to Nikya, or previous efforts of Nikya that allowed us to play more ramping dorks. With the ability to hit almost anything on the board you don’t even need to strategize what needs to be taken out first!! Windmill slam a creature and destroy whatever looks scariest. It’s a foolproof strategy that will work 100% of the time, 70% of the time. Enough of these and your opponents won’t have a leg to stand on. We will include certain amounts of targeted removal too, can’t be forgetting our old pal 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c18/159/reclamation-sage?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/0/e/0eee981e-5d26-4810-90e1-432f3c3107f2.jpg?1561899508' width=100% height=100%&amp;gt;&quot;&gt;
+	Reclamation Sage
+&lt;/a&gt;, but when possible we’re including either creatures that can kill any threat, or creatures that can kill all threats of a given type ala 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cma/91/bane-of-progress?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/6/6/66a23edd-96ad-4870-907f-2c332bc2e53b.jpg?1562633993' width=100% height=100%&amp;gt;&quot;&gt;
+	Bane of Progress
+&lt;/a&gt;. Send everyone back down without making individual enemies, they’ll all hate you equally!&lt;/p&gt;
+
+&lt;p&gt;When all that removal doesn’t work, we run a counterspell. What? I hear you ask, in a deck so focused around creatures where we’re going so hard we’re even ditching cultivate you’re going to include a counterspell that can’t even protect Nikya? The answer to that is yes and once you see it you’ll know why.&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+    &lt;img src=&quot;/assets/images/drunkCommander/dc1/drunkCommander1-5.png&quot; style=&quot;max-width: 30%&quot; class=&quot;img-fluid&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Yeah. Get out of here with that 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mb1/336/counterspell?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/6/a/6ac949a7-51ea-4c7e-ad46-87e5ee88b99b.jpg?1573507224' width=100% height=100%&amp;gt;&quot;&gt;
+	Counterspell
+&lt;/a&gt;, in Gruul there is only one true response and that is an angry armor-clad gorilla screaming so loud the blue mages cower in fear. The sheer power, the raw RAGE someone would dare counter/wipe your sweet sweet collection of threats can only be met by an equally aggressive response. This card is non-negotiable. &lt;b&gt;Editor’s Note: You really should run 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/a25/147/red-elemental-blast?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/7/0/70a45e9b-699e-425a-9f3d-267274830d3e.jpg?1562436618' width=100% height=100%&amp;gt;&quot;&gt;
+	Red Elemental Blast
+&lt;/a&gt;. Don’t trust Chev, he’s been trying to find a home for this card for years.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Lastly, and most importantly, you need a solid creature suite of big, dumb, and scary. Things that enter scary, things that get scary, all things that no matter when you draw them - they’re worth playing. Honestly you could include every other gruul legendary listed as potential commanders above and be off to a fantastic start! Focus on anything with enough power that your opponents exhale when they see it. That is a very good signal. This is where the most amount of individual flavor can come into the deck too. Since we are hamstrung by Nikya’s downside the amount of creature-ramp and removal are much more necessary than in decks that can more easily run multiple copies of 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mb1/1276/natures-lore?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/b/1/b1ce11c3-61bc-4391-b316-945661cfeaa9.jpg?1582058303' width=100% height=100%&amp;gt;&quot;&gt;
+	Nature’s Lore
+&lt;/a&gt; effects or low cost removal. Personally, I just flipped through my binder on the first build and included anything that looked big and bad: 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cma/168/wolfbriar-elemental?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/6/0/60da801e-c47c-4aac-928c-2e7eab2d24c6.jpg?1562633965' width=100% height=100%&amp;gt;&quot;&gt;
+	Wolfbriar Elemental
+&lt;/a&gt;, 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/rix/115/silverclad-ferocidons&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/5/f/5f0d0c8d-c057-4a44-bd1e-38e1dd175778.jpg?1555040533' width=100% height=100%&amp;gt;&quot;&gt;
+	Silverclad Ferocidons
+&lt;/a&gt;, 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jou/128/hydra-broodmaster?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/6/b/6b465289-676d-4c34-84d3-ce8daf0fd40e.jpg?1562213819' width=100% height=100%&amp;gt;&quot;&gt;
+	Hydra Broodmaster
+&lt;/a&gt;. Tuned? Who needs tuned when we can drop 10/10 hydras for DAYS. It’s also how I stumbled across this gem with ungodly amounts of synergy…&lt;/p&gt;
+
+&lt;div class=&quot;text-center&quot;&gt;
+    &lt;img src=&quot;/assets/images/drunkCommander/dc1/drunkCommander1-6.png&quot; style=&quot;max-width: 30%&quot; class=&quot;img-fluid&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+That’s right, Gruul has always hated noncreature spells and now you can channel that hate in an incredibly powerful way! You almost never need to worry about the condition because of the incredibly high creature count we’re rocking and if Nikya’s out? Like a true friend they’ll be stopping you from making a fool of yourself. Even killing this thing right after it’s played will reward someone with 6 damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Deck Strategy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+You swing. Swing and/or smash, preferably both. The plan is a simple one but with the number of high-power threats you’re running, it sure is effective. I’ve included a decklist at the bottom with the current iteration of Nikya that I run. It does have a few tricky pieces to worry about while slamming Singapore Slings, mostly 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/rna/201/rhythm-of-the-wild?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/8/4/84062ce2-fea2-4e06-b83b-7cc597fb2a1b.jpg?1584831773' width=100% height=100%&amp;gt;&quot;&gt;
+	Rhythm of the Wild
+&lt;/a&gt; and 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/war/169/nissa-who-shakes-the-world?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/f/8/f857bbe4-5619-4733-a0c7-69700f2ef4f3.jpg?1557576960' width=100% height=100%&amp;gt;&quot;&gt;
+	Nissa, Who Shakes the World
+&lt;/a&gt;. I know, I know. Worrying about whether a creature enters with haste or a counter? Who cares?? I need to drink my daiquiri! I promise it’s worth it though and besides, this is singleton! What are the chances it shows up in a game anyway?? As for Nissa, if there’s a chance we can tap a single land for three mana...we’re going to take it. 
+&lt;br /&gt;
+So without further ado, I give you Nikya and her Old Fashioned straight from the 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://shop.tcgplayer.com/magic/planechase-anthology/skarrg-the-rage-pits&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/a/7/a753ddca-78e0-4e58-a8be-abec6c1183f9.jpg?1573517869' width=100% height=100%&amp;gt;&quot;&gt;
+    Rage Pits
+&lt;/a&gt;.
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Old Fashioned - A simple drink for a simple deck&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;1 Sugar Cube&lt;/li&gt;
+  &lt;li&gt;2 Dashes Bitters&lt;/li&gt;
+  &lt;li&gt;2oz Bourbon&lt;/li&gt;
+  &lt;li&gt;Orange Peel&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In a Chilled Rocks Glass (or any cup really), mix the sugar with the bitters and a little bit of water before adding the bourbon. Throw in one large ice cube and stir until you get bored then top with orange peel&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://tappedout.net/mtg-decks/nikya-of-the-old-fashioned-1/?cb=1588993977&quot; target=&quot;_blank&quot;&gt;&lt;b&gt;Nikya of the Old Fashioned Deck list&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>chev</name></author><category term="commander" /><category term="bourbon" /><summary type="html">Everyone has their pet decks. In Commander, where cards don’t rotate and power creep is directly proportional to your income, this is especially true.</summary></entry><entry><title type="html">Titan’s Nest</title><link href="http://localhost:4000/rev%20your%20engines/2020/05/11/rye_1.html" rel="alternate" type="text/html" title="Titan's Nest" /><published>2020-05-11T00:00:00-04:00</published><updated>2020-05-11T00:00:00-04:00</updated><id>http://localhost:4000/rev%20your%20engines/2020/05/11/rye_1</id><content type="html" xml:base="http://localhost:4000/rev%20your%20engines/2020/05/11/rye_1.html">&lt;p&gt;Every set Wizards teases us with these niche, often rare or mythic, enchantments, that just scream to be built around. 
+&lt;!--more--&gt;
+These cards can be the core engines of decks that 
+rack up mana and card advantage turn after turn to bury the opponent and allow for explosive kill turns…. or, often, they fall overlooked, misunderstood, and forgotten, 
+unable to compete with the raw efficiency of modern card design.&lt;/p&gt;
+&lt;p&gt;
+In Standard, you can look to 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/rna/149/wilderness-reclamation&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/5/4/54af08f7-9c6c-464e-b2f7-2b5803f36481.jpg?1584831336' width=100% height=100%&amp;gt;&quot;&gt;
+    Wilderness Reclamation
+&lt;/a&gt; and
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/125/fires-of-invention&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.jpg?1572490362' width=100% height=100%&amp;gt;&quot;&gt;
+    Fires of Invention
+&lt;/a&gt; (two of the best decks shells currently), but several other enchantments lay in wait in standard that haven’t quite seen their day. Cards like 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/161/underworld-breach&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/0/e/0e51d796-7279-4c06-87f0-37adbdaa41df.jpg?1583750118' width=100% height=100%&amp;gt;&quot;&gt;
+    Underworld Breach
+&lt;/a&gt; and 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/187/doom-foretold&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/e/7/e76c0c83-3e87-474d-bc72-1677eed32cfa.jpg?1572490732' width=100% height=100%&amp;gt;&quot;&gt;
+    Doom Foretold
+&lt;/a&gt; had brief stints in the limelight, but gems like 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/grn/171/fireminds-research&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/4/b/4bc926b2-1e54-4c62-8b6c-fce4ef013abc.jpg?1572893624' width=100% height=100%&amp;gt;&quot;&gt;
+    Firemind’s Research
+&lt;/a&gt;, 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/215/enigmatic-incarnation&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/d/d/dd116c0b-0404-42ba-978f-7044b1a03d90.jpg?1581481041' width=100% height=100%&amp;gt;&quot;&gt;
+    Enigmatic Incarnation
+&lt;/a&gt;, or 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/16/happily-ever-after&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/d/3/d32d85d5-a6f0-4cc5-9fd6-6b329aae2e5b.jpg?1572489697' width=100% height=100%&amp;gt;&quot;&gt;
+    Happily Ever After
+&lt;/a&gt; (a man can dream, okay?) have seen love only on the fringes, if at all. 
+&lt;/p&gt;
+&lt;p&gt;
+Ikoria is no different, with a bevy of incredibly spicy and seemingly powerful enchantments. The ones I’m eyeing currently are the rare shard enchantments and we’re 
+kicking off this series with a real doozey in &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/212/titans-nest&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/7/5/75d4e6f3-73cb-4799-bcb9-c1f5bc234a02.jpg?1586521298' width=100% height=100%&amp;gt;&quot;&gt;
+    Titan's Nest
+&lt;/a&gt;!
+&lt;/p&gt;
+&lt;p&gt;
+Welcome to Rev Your Engines, the series where we utilize unique engine enchantments to kick standard into high gear! Will we have a highly tuned engine to take us 
+across the finish line or will we sputter and stall out? (I simultaneously hated and loved making those puns)
+&lt;/p&gt;
+
+&lt;h2 id=&quot;a-wretched-hive-of-scum-and-villiany&quot;&gt;A Wretched Hive of Scum and Villiany&lt;/h2&gt;
+
+&lt;div class=&quot;text-center&quot;&gt;
+    &lt;img src=&quot;/assets/images/RYE/rye1/rye1-4.png&quot; style=&quot;max-width: 25%&quot; class=&quot;img-fluid&quot; /&gt;
+&lt;/div&gt;
 
 &lt;p&gt;
-    And if you want to buy a card...try this!
-    &lt;a 
-        class=&quot;accented-link&quot;
-        target=&quot;_blank&quot; 
-        href=&quot;https://shop.tcgplayer.com/magic/war-of-the-spark/fblthp-the-lost&quot; 
-        data-toggle=&quot;popover&quot; 
-        data-placement=&quot;top&quot; 
-        data-content=&quot;&lt;img src='https://img.scryfall.com/cards/large/front/6/9/69c00ed3-cd79-4921-a6cd-a6b7f89eb53c.jpg?1580844584' width=100% height=100%&gt;&quot;&gt;
-        Fblthp
-    &lt;/a&gt;
-&lt;/p&gt;</content><author><name>chev</name></author><category term="commander" /><category term="whisky" /><summary type="html">Here we test...the video! Looks pretty great right?</summary></entry><entry><title type="html">Welcome</title><link href="/intro/2020/04/30/welcome.html" rel="alternate" type="text/html" title="Welcome" /><published>2020-04-30T00:00:00-04:00</published><updated>2020-04-30T00:00:00-04:00</updated><id>/intro/2020/04/30/welcome</id><content type="html" xml:base="/intro/2020/04/30/welcome.html">&lt;p&gt;Welcome to our new website! Home of some cool stuff! It’s in demo right now…&lt;/p&gt;
+With the right build, Titan’s Nest falls firmly in the “busted” category and I think it could be a major player in standard once rotation comes in the fall. Just 
+reading the card, we essentially give all our spells delve (a mechanic that has gotten cards banned in many formats). Yes, there are some restrictions, no X-spells, 
+only mono-colored spells, but 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/rna/183/hydroid-krasis&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/8/0/801dd9c6-b159-4e1c-af2c-214c1f573633.jpg?1584833616' width=100% height=100%&amp;gt;&quot;&gt;
+    Hydroid Krasis
+&lt;/a&gt; and 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/grn/224/expansion-explosion&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/e/0/e0644c92-4d67-475e-8c8e-0e2c493682fb.jpg?1572893978' width=100% height=100%&amp;gt;&quot;&gt;
+    Expansion//Explosion
+&lt;/a&gt; are too mainstream anyway.
+&lt;/p&gt;
+&lt;p&gt;
+Titan’s Nest is also full on Sultai (hooray for the return of wedge support), colors that happen to love putting milling themselves for all sorts of benefit.
+On the surface, this enchantment can turn our graveyard into a source of ramp to keep our foot on the gas in the mid to late game. But that’s boring. Like I said 
+earlier, this enchantment should not be treated as a fair card, and I intend to use it solely for the forces of evil. 
+&lt;/p&gt;
+&lt;p&gt;
+And the dastardly villain who has made the Titan’s Nest his lair is none other than 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/107/syr-konrad-the-grim&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/a/8/a808868f-aea8-4651-9357-85a4d7b4f290.jpg?1572490254' width=100% height=100%&amp;gt;&quot;&gt;
+    Syr Konrad, the Grim
+&lt;/a&gt;.
+&lt;/p&gt;
 
-&lt;p&gt;We’re proud of what we’re building and hope to have more soon!&lt;/p&gt;
+&lt;h2 id=&quot;were-dealing-with-a-real-maniac&quot;&gt;We’re Dealing With a Real Maniac…&lt;/h2&gt;
+
+&lt;div class=&quot;text-center&quot;&gt;
+    &lt;img src=&quot;/assets/images/RYE/rye1/rye1-5.png&quot; style=&quot;max-width: 25%&quot; class=&quot;img-fluid&quot; /&gt;
+&lt;/div&gt;
 
 &lt;p&gt;
-    And if you want to buy a card...try this!
-    &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://shop.tcgplayer.com/magic/war-of-the-spark/fblthp-the-lost&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/6/9/69c00ed3-cd79-4921-a6cd-a6b7f89eb53c.jpg?1580844584' width=100% height=100%&amp;gt;&quot;&gt;
-        Fblthp
-    &lt;/a&gt;
-&lt;/p&gt;</content><author><name>chev</name></author><category term="commander" /><category term="whisky" /><summary type="html">Welcome to our new website! Home of some cool stuff! It’s in demo right now…</summary></entry><entry><title type="html">Kiwifruit</title><link href="/fruit/2018/08/22/kiwifruit.html" rel="alternate" type="text/html" title="Kiwifruit" /><published>2018-08-22T00:00:00-04:00</published><updated>2018-08-22T00:00:00-04:00</updated><id>/fruit/2018/08/22/kiwifruit</id><content type="html" xml:base="/fruit/2018/08/22/kiwifruit.html">&lt;p&gt;Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible
-berry of several species of woody vines in the genus Actinidia.&lt;/p&gt;
+Syr Konrad was a powerhouse in Throne of Eldraine limited, but in constructed formats he’s been generally overlooked. Some of that might be because he has more lines of 
+text than War and Peace… or more likely because he was turned into an elk. TLDR, any time creatures are entering or leaving the graveyard, Syr Konrad is gonna ping our 
+opponent. They want to wrath, they'll take a bunch of damage. They mill some of our beloved troops, they get pinged a few times. If creatures are banished to the shadow 
+realm (whoops wrong card game) by Titan’s Nest to generate loads of colorless mana…. they take damage for Every. Single. One.
 
-&lt;p&gt;The most common cultivar group of kiwifruit is oval, about the size of a large
-hen’s egg (5–8 cm (2.0–3.1 in) in length and 4.5–5.5 cm (1.8–2.2 in) in
-diameter). It has a fibrous, dull greenish-brown skin and bright green or
-golden flesh with rows of tiny, black, edible seeds. The fruit has a soft
-texture, with a sweet and unique flavor.&lt;/p&gt;</content><author><name>julian</name></author><summary type="html">Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible berry of several species of woody vines in the genus Actinidia.</summary></entry><entry><title type="html">Apples</title><link href="/fruit/2018/08/21/apples.html" rel="alternate" type="text/html" title="Apples" /><published>2018-08-21T00:00:00-04:00</published><updated>2018-08-21T00:00:00-04:00</updated><id>/fruit/2018/08/21/apples</id><content type="html" xml:base="/fruit/2018/08/21/apples.html">&lt;p&gt;An apple is a sweet, edible fruit produced by an apple tree.&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+    &lt;img src=&quot;https://media.tenor.com/images/9ddd4d18f51e2375710bb9349d07d332/tenor.gif&quot; style=&quot;max-width: 100%&quot; class=&quot;img-fluid&quot; /&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Apple trees are cultivated worldwide, and are the most widely grown species in
-the genus Malus. The tree originated in Central Asia, where its wild ancestor,
-Malus sieversii, is still found today. Apples have been grown for thousands of
-years in Asia and Europe, and were brought to North America by European
-colonists.&lt;/p&gt;</content><author><name>julian</name></author><summary type="html">An apple is a sweet, edible fruit produced by an apple tree.</summary></entry><entry><title type="html">Bananas</title><link href="/fruit/2018/08/20/bananas.html" rel="alternate" type="text/html" title="Bananas" /><published>2018-08-20T00:00:00-04:00</published><updated>2018-08-20T00:00:00-04:00</updated><id>/fruit/2018/08/20/bananas</id><content type="html" xml:base="/fruit/2018/08/20/bananas.html">&lt;p&gt;A banana is an edible fruit – botanically a berry – produced by several kinds
-of large herbaceous flowering plants in the genus Musa.&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+That is our dastardly scheme in a nutshell: mill as much of our deck as possible, get a Syr Konrad and Titan’s Nest on the field and huck a putrid fireball from 
+beyond the grave.
+&lt;/p&gt;
 
-&lt;p&gt;In some countries, bananas used for cooking may be called “plantains”,
-distinguishing them from dessert bananas. The fruit is variable in size, color,
-and firmness, but is usually elongated and curved, with soft flesh rich in
-starch covered with a rind, which may be green, yellow, red, purple, or brown
-when ripe.&lt;/p&gt;</content><author><name>julian</name></author><summary type="html">A banana is an edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.</summary></entry></feed>
+&lt;h2 id=&quot;bring-in-the-minions&quot;&gt;Bring in the Minions&lt;/h2&gt;
+
+&lt;p&gt;
+So, what poor saps have been enlisted as Konrad’s minions to be sent to their inevitable unceremonious demise?
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/RYE/rye1/rye1-1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+    &lt;img src=&quot;/assets/images/RYE/rye1/rye1-2.png&quot; style=&quot;max-width: 25%&quot; class=&quot;img-fluid&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;
+Syr Konrad doesn’t discriminate. Merfolk, Bird, Gorgon… Wall? He’ll take every helping hand/fin/brick he can get. The common thread among this creature suite is 
+that all these creatures mill us, fueling our Nest and triggering Konrad if he’s out. We’re looking at three to four cards binned per creature we play which adds up 
+very quickly. While there are cards that could self-mill more efficiently in standard, we need a high density of creatures to enact our combo kill. These creatures all 
+come with upside in that they pad our life total or block incredibly well. &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m20/102/gorging-vulture&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/3/7/37cbe5f2-5b6b-41de-9586-c7cc83464cf2.jpg?1563898929' width=100% height=100%&amp;gt;&quot;&gt;
+    Gorging Vulture
+&lt;/a&gt; and &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/105/mire-triton&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/3/f/3f8427d3-4d9e-48c9-838b-239fd1357d95.jpg?1581479874' width=100% height=100%&amp;gt;&quot;&gt;
+    Mire Triton
+&lt;/a&gt; both boost our life enough to get us that extra turn we need to assemble our combo. &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/122/venomous-hierophant&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/9/d/9dc2b661-2f42-419d-837f-bbf097c1153c.jpg?1581480034' width=100% height=100%&amp;gt;&quot;&gt;
+    Venomous Hierophant
+&lt;/a&gt; and Mire Triton both have deathtouch which is a big deterrent, especially for larger creatures that will outclass our motley crew of 
+recruits. 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/rna/59/wall-of-lost-thoughts&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/0/3/03a0a627-ea7a-48bb-bf30-60b2677dd8ae.jpg?1584830422' width=100% height=100%&amp;gt;&quot;&gt;
+    Wall of Lost Thoughts
+&lt;/a&gt; and 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/53/merfolk-secretkeeper-venture-deeper&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/c/e/ceb7308d-608c-4ede-9496-d795fc5bb271.jpg?1572489928' width=100% height=100%&amp;gt;&quot;&gt;
+    Merfolk Secretkeeper
+&lt;/a&gt; have big butts to hold back small creatures chipping in, and 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/grn/173/glowspore-shaman&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/0/8/08fe260a-d204-4e75-b3e5-0cd9b4ca7084.jpg?1572893638' width=100% height=100%&amp;gt;&quot;&gt;
+    Glowspore Shaman
+&lt;/a&gt; often trades up. Also, we are not afraid to chump block or take an early trade! It only fuels us once it comes time to go off.
+&lt;/p&gt;
+
+&lt;h2 id=&quot;every-super-villian-needs-some-villianous-tools&quot;&gt;Every Super Villian Needs Some Villianous Tools&lt;/h2&gt;
+
+&lt;p&gt;
+Our non-creature suite is trim, but supports and adds consistency to our gameplan.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/RYE/rye1/rye1-3.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+I like 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/war/220/tamiyo-collector-of-tales&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/7/6/76776b24-a2e1-4590-88e7-8a421baf2fc4.jpg?1557577288' width=100% height=100%&amp;gt;&quot;&gt;
+    Tamiyo, Collector of Tales
+&lt;/a&gt; a lot. It’s a versatile card, especially with graveyard strategies. It can dig for our combo pieces, milling us more in the process, or regrow things that we milled 
+earlier. We don’t want to dilute our creature count and at four mana, it’s on the higher end of our curve, but I thought trying one out could be interesting.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/search?q=corpse+churn+s%3Aiko&amp;amp;unique=cards&amp;amp;as=grid&amp;amp;order=name&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/a/1/a1c0c764-791d-4181-8f7a-147554d97d97.jpg?1586516237' width=100% height=100%&amp;gt;&quot;&gt;
+    Corpse churn
+&lt;/a&gt;, an Ikoria reprint, is an auto-include. It mills us and can grab a Syr Konrad we milled or just any other fallen soldier to keep the mill train 
+rolling. Once again, this consistency and ability to maintain momentum is important for a combo deck like ours.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/166/the-binding-of-the-titans&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/4/6/46fb94ad-f9be-48b4-b65a-4e736e5ffdbb.jpg?1581480556' width=100% height=100%&amp;gt;&quot;&gt;
+    The Binding of the Titans
+&lt;/a&gt; was a card that intrigued me at release, but never really found a home in any of my decks until now. Given, it takes some turns, but 
+this card is a powerhouse for us. It mills us, it gains life and allows us to pick off a lurking &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/229/uro-titan-of-natures-wrath&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/a/0/a0b6a71e-56cb-4d25-8f2b-7a4f1b60900d.jpg?1581481163' width=100% height=100%&amp;gt;&quot;&gt;
+    Uro, Titan of Nature's Wrath
+&lt;/a&gt; or 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/226/lurrus-of-the-dream-den&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/5/a/5ad36fb2-c44e-4085-ba0d-54277841ad3a.jpg?1588373355' width=100% height=100%&amp;gt;&quot;&gt;
+    Lurrus of the Dream-Den
+&lt;/a&gt; target. Nice. In chapter three we even get to 
+fix our mana or, like Corpse Churn, get back a creature we may need or our fearless leader, Syr Konrad. And then after all that, we can exile the Binding to our Titan’s 
+Nest to play our other spells.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/118/tymaret-calls-the-dead&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/6/8/68c0d087-540a-4249-9265-f13cc8e776ea.jpg?1581479994' width=100% height=100%&amp;gt;&quot;&gt;
+    Tymaret Calls the Dead
+&lt;/a&gt; as a one-of is just a catch-all slot. It mills more than our other cards, albeit over multiple turns, gains us some life at the end, 
+and if you can exile an already spent Binding, we can get an additional blocker (or attacker if our opponent is playing a creature-light deck).
+&lt;/p&gt;
+&lt;p&gt;
+The mana base is mostly basics, just to keep it simple. We want to be going as fast as possible, we cannot wait for tap lands. Add a few shocks and 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/244/fabled-passage&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/b/8/b841bfa8-7c17-4df2-8466-780ab9a4a53a.jpg?1572491204' width=100% height=100%&amp;gt;&quot;&gt;
+    Fabled Passage
+&lt;/a&gt;s to fix and season to taste.
+&lt;/p&gt;
+
+&lt;h2 id=&quot;the-scheme-is-foolproof&quot;&gt;The Scheme is Foolproof!&lt;/h2&gt;
+
+&lt;p&gt;
+The plan is simple, mill yourself as fast possible. Use as much or all of your mana every turn and get those cards in your graveyard. Always keep a track of how many 
+creatures are in there so you know when you’ve reached critical mass. Also, keep track of where your Konrads and Nests are. We need those to win the game, so if you get 
+a chance to nab one back from the yard, get it. As you’re playing your creatures out, block aggressively. We want to conserve our life total as best we can, and we lose 
+nothing from an additional creature in the bin. Also, don’t be afraid to attack! Getting chip-ins is critical to lessening the threshold needed for Konrad to do his 
+thing. Most of our creatures attack well, so get in there if it’s free.
+&lt;/p&gt;
+&lt;p&gt;
+Unfortunately, this deck comes with some drawbacks, so let’s discuss what might endanger our victory. Like most combo decks, this deck is incredibly linear and there’s 
+no real interaction for us besides blocking, so a counterspell can hinder us. Also, any sort of exile really hurts. 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/13/elspeth-conquers-death&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/e/a/ea20208b-1939-4c69-8cfd-c0a42f9dc427.jpg?1586801037' width=100% height=100%&amp;gt;&quot;&gt;
+    Elspeth Conquers Death
+&lt;/a&gt; hits both our main pieces and something like 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/91/elspeths-nightmare&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/3/7/37ccd974-d2bc-4fcf-94a7-0a868a04cb98.jpg?1586801044' width=100% height=100%&amp;gt;&quot;&gt;
+    Elspeth’s Nightmare
+&lt;/a&gt; is a nightmare for us as well wiping out all the progress we’ve made. Sometimes we just won’t draw Titan’s Nest and Syr Konrad, or we’ll mill them. Lastly, we 
+realistically can’t deal much more than twenty damage, so any deck that has lots of life gain can be a problem. But these are issues that plague all but the most 
+resilient of combo decks and they’re risks that we’ll take to play this ridiculous yet beautiful brew. 
+&lt;/p&gt;
+&lt;p&gt;
+On the flip-side, this deck is not a tier deck. Opponents won’t see their demise coming until it’s too late. And since our pseudo delve is a mana ability, they can’t 
+stop it and we can do everything immediately at instant speed! There’s nothing like stacking up 20 Syr Konrad triggers up and letting them machine-gun down our 
+bewildered opponent. 
+&lt;/p&gt;
+&lt;p&gt;
+Here’s the full list for all your copying pleasure. Make sure to watch the video to see the deck in action and hear my mediocre banter and closing thoughts.
+&lt;/p&gt;
+
+&lt;h2 id=&quot;bad-eggs-in-the-titans-nest&quot;&gt;Bad Eggs in the Titan’s Nest&lt;/h2&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+   &lt;div class=&quot;col-md-2&quot;&gt;&lt;/div&gt;
+   &lt;div class=&quot;col-md-8&quot;&gt;
+       &lt;div class=&quot;row&quot;&gt;
+           &lt;div class=&quot;col-6&quot;&gt;
+               &lt;b&gt;Creatures&lt;/b&gt;
+               &lt;p class=&quot;mb-0&quot;&gt;
+                    2x &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/grn/173/glowspore-shaman&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/0/8/08fe260a-d204-4e75-b3e5-0cd9b4ca7084.jpg?1572893638' width=100% height=100%&amp;gt;&quot;&gt;
+                       Glowspore Shaman
+                   &lt;/a&gt;&lt;br /&gt;
+                    4x &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m20/102/gorging-vulture&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/3/7/37cbe5f2-5b6b-41de-9586-c7cc83464cf2.jpg?1563898929' width=100% height=100%&amp;gt;&quot;&gt;
+                       Gorging Vulture
+                   &lt;/a&gt;&lt;br /&gt;
+                    4x &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/53/merfolk-secretkeeper-venture-deeper&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/c/e/ceb7308d-608c-4ede-9496-d795fc5bb271.jpg?1572489928' width=100% height=100%&amp;gt;&quot;&gt;
+                       Merfolk Secretkeeper
+                   &lt;/a&gt;&lt;br /&gt;
+                    4x &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://img.scryfall.com/cards/large/front/0/d/0dcdad71-323e-41e0-a1b3-9fd5b753e71c.jpg?1584831692&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/3/f/3f8427d3-4d9e-48c9-838b-239fd1357d95.jpg?1581479874' width=100% height=100%&amp;gt;&quot;&gt;
+                       Mire Triton
+                   &lt;/a&gt;&lt;br /&gt;
+                    4x &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://img.scryfall.com/cards/large/front/0/d/0dcdad71-323e-41e0-a1b3-9fd5b753e71c.jpg?1584831692&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/0/d/0dcdad71-323e-41e0-a1b3-9fd5b753e71c.jpg?1584831692' width=100% height=100%&amp;gt;&quot;&gt;
+                       Syr Konrad, the Grim
+                   &lt;/a&gt;&lt;br /&gt;
+                    4x &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/122/venomous-hierophant&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/9/d/9dc2b661-2f42-419d-837f-bbf097c1153c.jpg?1581480034' width=100% height=100%&amp;gt;&quot;&gt;
+                       Venomous Hierophant
+                   &lt;/a&gt;&lt;br /&gt;
+                    4x &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/rna/59/wall-of-lost-thoughts&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/0/3/03a0a627-ea7a-48bb-bf30-60b2677dd8ae.jpg?1584830422' width=100% height=100%&amp;gt;&quot;&gt;
+                       Wall of Lost Thoughts
+                   &lt;/a&gt;
+               &lt;/p&gt;
+               &lt;b&gt;Instants&lt;/b&gt;
+               &lt;p class=&quot;mb-0&quot;&gt;3x &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/search?q=corpse+churn+s%3Aiko&amp;amp;unique=cards&amp;amp;as=grid&amp;amp;order=name&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/a/1/a1c0c764-791d-4181-8f7a-147554d97d97.jpg?1586516237' width=100% height=100%&amp;gt;&quot;&gt;
+                       Corpse Churn
+                   &lt;/a&gt;
+               &lt;/p&gt;
+                &lt;b&gt;Planeswalkers&lt;/b&gt;
+               &lt;p class=&quot;mb-0&quot;&gt;1x &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/war/220/tamiyo-collector-of-tales&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/7/6/76776b24-a2e1-4590-88e7-8a421baf2fc4.jpg?1557577288' width=100% height=100%&amp;gt;&quot;&gt;
+                       Tamiyo, Collector of Tales
+                   &lt;/a&gt;
+               &lt;/p&gt;
+           &lt;/div&gt;
+           &lt;div class=&quot;col-6&quot;&gt;
+            &lt;b&gt;Enchantments&lt;/b&gt;
+               &lt;p class=&quot;mb-0&quot;&gt;3x &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/166/the-binding-of-the-titans&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/4/6/46fb94ad-f9be-48b4-b65a-4e736e5ffdbb.jpg?1581480556' width=100% height=100%&amp;gt;&quot;&gt;
+                       The Binding of the Titans
+                   &lt;/a&gt;&lt;br /&gt;
+               	4x &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/212/titans-nest&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/7/5/75d4e6f3-73cb-4799-bcb9-c1f5bc234a02.jpg?1586521298' width=100% height=100%&amp;gt;&quot;&gt;
+                       Titan’s Nest
+                   &lt;/a&gt;&lt;br /&gt;
+                1x &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/6/8/68c0d087-540a-4249-9265-f13cc8e776ea.jpg?1581479994' width=100% height=100%&amp;gt;&quot;&gt;
+                       Tymaret Calls the Dead
+                   &lt;/a&gt;
+               &lt;/p&gt;
+               &lt;b&gt;Lands&lt;/b&gt;
+               &lt;p class=&quot;mb-0&quot;&gt;1x &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/rna/246/breeding-pool&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/b/b/bb54233c-0844-4965-9cde-e8a4ef3e11b8.jpg?1584832238' width=100% height=100%&amp;gt;&quot;&gt;
+                       Breeding Pool
+                   &lt;/a&gt;&lt;br /&gt;
+                    4x &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/244/fabled-passage&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/b/8/b841bfa8-7c17-4df2-8466-780ab9a4a53a.jpg?1572491204' width=100% height=100%&amp;gt;&quot;&gt;
+                       Fabled Passage
+                   &lt;/a&gt;&lt;br /&gt;
+                    3x &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/search?q=forest+s%3Aiko&amp;amp;unique=cards&amp;amp;as=grid&amp;amp;order=name&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/9/c/9c348494-f60c-4bd1-9077-bff24f2e634b.jpg?1586518815' width=100% height=100%&amp;gt;&quot;&gt;
+                       Forest
+                   &lt;/a&gt;&lt;br /&gt;
+                    4x &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/search?q=island+s%3Aiko&amp;amp;unique=cards&amp;amp;as=grid&amp;amp;order=name&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/4/b/4b2ad5b3-7257-4521-8916-6b1cbfb89e27.jpg?1586518244' width=100% height=100%&amp;gt;&quot;&gt;
+                       Island
+                   &lt;/a&gt;&lt;br /&gt;
+                    4x &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/grn/253/overgrown-tomb&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/e/f/eff1f52c-5c43-4260-aaa0-6920846a191c.jpg?1572894177' width=100% height=100%&amp;gt;&quot;&gt;
+                       Overgrown Tomb
+                   &lt;/a&gt;&lt;br /&gt;
+                    5x &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/search?q=swamp+s%3Aiko&amp;amp;unique=cards&amp;amp;as=grid&amp;amp;order=name&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/6/c/6c8c3f0e-7af4-410b-a675-9ea84f51e812.jpg?1586518729' width=100% height=100%&amp;gt;&quot;&gt;
+                       Swamp
+                   &lt;/a&gt;&lt;br /&gt;
+                    1x &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/grn/259/watery-grave&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/7/d/7d4595f2-9297-40dc-b2dd-7144bbb401f7.jpg?1572894217' width=100% height=100%&amp;gt;&quot;&gt;
+                       Watery Grave
+                   &lt;/a&gt;
+               &lt;/p&gt;
+           &lt;/div&gt;
+       &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;
+That’s all for now, but stay tuned for next week where I’ll cover 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/198/offsprings-revenge&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/7/8/78619ffb-f514-4f9f-9d77-3ab49e045f7c.jpg?1586457085' width=100% height=100%&amp;gt;&quot;&gt;
+    Offspring's Revenge
+&lt;/a&gt;, another fun Ikoria enchantment! If there’s any other cards you’d like to see brewed around, down below is contact info for your messaging medium of choice. 
+&lt;/p&gt;
+&lt;p&gt;
+Until then, stay brewing y’all!
+&lt;/p&gt;</content><author><name>julian</name></author><category term="Standard" /><category term="Ikoria" /><category term="Titan's Nest" /><category term="Syr Konrad, the Grim" /><summary type="html">Every set Wizards teases us with these niche, often rare or mythic, enchantments, that just scream to be built around.</summary></entry><entry><title type="html">Welcome to the Brew Crew!</title><link href="http://localhost:4000/intro/2020/05/10/welcome.html" rel="alternate" type="text/html" title="Welcome to the Brew Crew!" /><published>2020-05-10T00:00:00-04:00</published><updated>2020-05-10T00:00:00-04:00</updated><id>http://localhost:4000/intro/2020/05/10/welcome</id><content type="html" xml:base="http://localhost:4000/intro/2020/05/10/welcome.html">&lt;p&gt;Ladies, gentlemen, boys and girls… Welcome Welcome Welcome! We’re incredibly excited to announce the launch of a brand new platform chock full of incredible Magic the Gathering content brought to you by some of the freshest voices in Magic. This is our first time doing anything of the sort, so we’re basically fresh off the boat.&lt;/p&gt;
+
+&lt;div class=&quot;text-center&quot;&gt;
+    &lt;img src=&quot;https://media.giphy.com/media/GCLlQnV7wzKLu/giphy.gif&quot; style=&quot;max-width: 50%&quot; class=&quot;img-fluid&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;a-lil-history-lesson&quot;&gt;A Lil’ History Lesson&lt;/h2&gt;
+&lt;p&gt;Our playgroup was founded in 2015, narrowly avoiding a fate of Yu-Gi-Oh thanks to some quick thinking by the proprietor of a local game shop. Since then, Magic has become a way for us to stay together and continue to foster a friendship that has since endured through our college experiences and continues to develop as we enter into the professional world and our adult lives.&lt;/p&gt;
+
+&lt;div class=&quot;text-center&quot;&gt;
+    &lt;img src=&quot;https://media.giphy.com/media/l41lZD0i4UU9PkDJe/giphy.gif&quot; style=&quot;max-width: 50%&quot; class=&quot;img-fluid&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;whats-our-angle&quot;&gt;What’s Our Angle?&lt;/h2&gt;
+&lt;p&gt;For us, Magic has always been a force inspiring unity. Spending each school break when we’re all together whipping out new and exciting builds for a night of Commander, drinking beer and swapping stories. Or driving across state lines to meet up for midnight prereleases. There are endless tales like this for us, as I’m sure there are for many of you.We want to share those experiences and memories with you and hear yours, all while toasting our favorite beverages.&lt;/p&gt;
+
+&lt;p&gt;Countless outlets exist to get every type of Magic fix available.
+&lt;a href=&quot;https://www.mtggoldfish.com/&quot; target=&quot;_blank&quot;&gt;MTGGoldfish&lt;/a&gt;,
+&lt;a href=&quot;https://www.mtgstocks.com/news&quot; target=&quot;_blank&quot;&gt;MTGStocks&lt;/a&gt;,
+&lt;a href=&quot;https://www.tcgplayer.com/&quot; target=&quot;_blank&quot;&gt;TCGPlayer&lt;/a&gt;,
+&lt;a href=&quot;https://scryfall.com/&quot; target=&quot;_blank&quot;&gt;Scryfall&lt;/a&gt;,
+&lt;a href=&quot;https://www.coolstuffinc.com/&quot; target=&quot;_blank&quot;&gt;CoolStuffInc&lt;/a&gt;, and
+&lt;a href=&quot;https://www.hipstersofthecoast.com/&quot; target=&quot;_blank&quot;&gt;Hipsters of the Coast&lt;/a&gt; all provide great content. We enjoy serving up competitive analysis and meta discussion, but we also want to provide a window into how we experience magic and how it has been an outlet of creativity for us. We found that magic is not only a game, but a way to communicate. It could be explaining your incredibly convoluted and “totally tier 1” combo you assembled to your friends around the kitchen table, or just discussing all the hot spoilers that’ll slot into your commander decks around the campfire.  These holistic experiences that most people would tell you are their favorite memories of the game should be shared with joy: and we want to bring that to all of you. Best Commanders to play during a night of drinking? How is crafting a deck like making Homebrew? Which of our decks have aged like fine wines and which went down the hatch quick like a shot of bottom tier vodka. Every game and every card has its own story. We’d love for you to join us in recanting this all. Grab a drink and shuffle up!&lt;/p&gt;
+
+&lt;h2 id=&quot;meet-our-founders&quot;&gt;Meet our Founders:&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Chev Eldrid&lt;/strong&gt; - Having just completed a Bachelors of Science in Computer Science at Northeastern University, Chev is eager to develop his skills in both software development and Magic content creation. He’ll be bringing you content on Brawl, Commander, and some streaming in the upcoming weeks with a couple series soon to be announced. Chev is probably also responsible for anything broken on the site so he’s the person to contact for that.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Julian Leal&lt;/strong&gt; - A recent graduate of the University of Maryland, Julian has spent the last year developing his professional career as a Geologist. Though he’s most at home playing Commander, Julian has also spent this time striving to branch into all other constructed formats and brewing around anything and everything. Expect brews and competitive decks in Standard, a delve into Historic, and the occasional foray into limited (plus whatever other debauchery he can sneak past Chev). Julian will also be streaming, hopefully regularly.&lt;/p&gt;
+
+&lt;p&gt;Thanks for stopping by! I know we look small now but I promise, we’re just getting started.&lt;/p&gt;
+
+&lt;div class=&quot;text-center&quot;&gt;
+    &lt;img src=&quot;https://desertbus.org/blog/wp-content/uploads/2019/11/giphy-1.gif&quot; style=&quot;max-width: 50%&quot; class=&quot;img-fluid&quot; /&gt;
+&lt;/div&gt;</content><author><name>chev</name></author><category term="commander" /><category term="whisky" /><summary type="html">Ladies, gentlemen, boys and girls… Welcome Welcome Welcome! We’re incredibly excited to announce the launch of a brand new platform chock full of incredible Magic the Gathering content brought to you by some of the freshest voices in Magic. This is our first time doing anything of the sort, so we’re basically fresh off the boat. A Lil’ History Lesson Our playgroup was founded in 2015, narrowly avoiding a fate of Yu-Gi-Oh thanks to some quick thinking by the proprietor of a local game shop. Since then, Magic has become a way for us to stay together and continue to foster a friendship that has since endured through our college experiences and continues to develop as we enter into the professional world and our adult lives. What’s Our Angle? For us, Magic has always been a force inspiring unity. Spending each school break when we’re all together whipping out new and exciting builds for a night of Commander, drinking beer and swapping stories. Or driving across state lines to meet up for midnight prereleases. There are endless tales like this for us, as I’m sure there are for many of you.We want to share those experiences and memories with you and hear yours, all while toasting our favorite beverages. Countless outlets exist to get every type of Magic fix available. MTGGoldfish, MTGStocks, TCGPlayer, Scryfall, CoolStuffInc, and Hipsters of the Coast all provide great content. We enjoy serving up competitive analysis and meta discussion, but we also want to provide a window into how we experience magic and how it has been an outlet of creativity for us. We found that magic is not only a game, but a way to communicate. It could be explaining your incredibly convoluted and “totally tier 1” combo you assembled to your friends around the kitchen table, or just discussing all the hot spoilers that’ll slot into your commander decks around the campfire. These holistic experiences that most people would tell you are their favorite memories of the game should be shared with joy: and we want to bring that to all of you. Best Commanders to play during a night of drinking? How is crafting a deck like making Homebrew? Which of our decks have aged like fine wines and which went down the hatch quick like a shot of bottom tier vodka. Every game and every card has its own story. We’d love for you to join us in recanting this all. Grab a drink and shuffle up! Meet our Founders: Chev Eldrid - Having just completed a Bachelors of Science in Computer Science at Northeastern University, Chev is eager to develop his skills in both software development and Magic content creation. He’ll be bringing you content on Brawl, Commander, and some streaming in the upcoming weeks with a couple series soon to be announced. Chev is probably also responsible for anything broken on the site so he’s the person to contact for that. Julian Leal - A recent graduate of the University of Maryland, Julian has spent the last year developing his professional career as a Geologist. Though he’s most at home playing Commander, Julian has also spent this time striving to branch into all other constructed formats and brewing around anything and everything. Expect brews and competitive decks in Standard, a delve into Historic, and the occasional foray into limited (plus whatever other debauchery he can sneak past Chev). Julian will also be streaming, hopefully regularly. Thanks for stopping by! I know we look small now but I promise, we’re just getting started.</summary></entry></feed>
