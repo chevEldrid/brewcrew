@@ -1,4 +1,115 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-05-15T11:42:50-04:00</updated><id>/feed.xml</id><entry><title type="html">Offspring’s Revenge</title><link href="/rev%20your%20engines/2020/05/15/rye_2.html" rel="alternate" type="text/html" title="Offspring's Revenge" /><published>2020-05-15T00:00:00-04:00</published><updated>2020-05-15T00:00:00-04:00</updated><id>/rev%20your%20engines/2020/05/15/rye_2</id><content type="html" xml:base="/rev%20your%20engines/2020/05/15/rye_2.html">&lt;p&gt;Last week, we explored our new wedge standard with 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-05-19T10:26:40-04:00</updated><id>/feed.xml</id><entry><title type="html">Selesnya Auras</title><link href="/on%20the%20rocks/2020/05/19/otr_1.html" rel="alternate" type="text/html" title="Selesnya Auras" /><published>2020-05-19T00:00:00-04:00</published><updated>2020-05-19T00:00:00-04:00</updated><id>/on%20the%20rocks/2020/05/19/otr_1</id><content type="html" xml:base="/on%20the%20rocks/2020/05/19/otr_1.html">&lt;p&gt;Welcome one and all to the first installment of a new series we here at the Brew Crew have dubbed, &lt;em&gt;On the Rocks&lt;/em&gt;!&lt;/p&gt;
+
+&lt;p&gt;No frills, no mixers, no long write-up. The decks featured in this series don’t need that. These are simply decks that we &lt;em&gt;want to play&lt;/em&gt; and we figured we’d share the experience.&lt;/p&gt;
+
+&lt;p&gt;This first installment is no different - Selesnya Auras. Suit up your creatures with only the finest of fineries and then gracefully waltz into the chaos that is the combat step. We have auras that pump, auras that give keywords, creatures that care about auras, creatures that care about enchan-… Ah jeez, I’m monologuing again aren’t I? After I just said no long write-ups…&lt;/p&gt;
+
+&lt;p&gt;Just watch the video already. (Chev joins me for this one. If you like this, check out his &lt;a href=&quot;https://brewcrew.net/deck%20tech/2020/05/14/brawldt_1.html&quot;&gt;Selesnya Auras Brawl deck tech&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vitu-Gucci Flip Flops&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+   &lt;div class=&quot;col-md-2&quot;&gt;&lt;/div&gt;
+   &lt;div class=&quot;col-md-8&quot;&gt;
+       &lt;div class=&quot;row&quot;&gt;
+           &lt;div class=&quot;col-6&quot;&gt;
+                &lt;b&gt;Enchantments&lt;/b&gt;
+                    &lt;p class=&quot;mb-0&quot;&gt;
+                    4x 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/2/all-that-glitters?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/d/9/d9713032-2956-4564-b5f5-2dd16245a4e6.jpg?1572489608' width=100% height=100%&amp;gt;&quot;&gt;
+	All That Glitters
+&lt;/a&gt;
+                    &lt;br /&gt;
+                    1x 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mb1/17/angelic-gift?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/b/7/b7391a75-bc22-47dc-a818-7a5d3ea076c8.jpg?1573504745' width=100% height=100%&amp;gt;&quot;&gt;
+	Angelic Gift
+&lt;/a&gt;
+                    &lt;br /&gt;
+                    1x 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/178/mantle-of-the-wolf?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/8/3/83a786fa-4b86-40f7-ac58-1a05fb38fcdb.jpg?1581480687' width=100% height=100%&amp;gt;&quot;&gt;
+	Mantle of the Wolf
+&lt;/a&gt;
+                    &lt;br /&gt;
+                    4x 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m20/191/season-of-growth?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/6/5/65b9a718-01b9-46b2-85eb-55f6206ee5e4.jpg?1563899533' width=100% height=100%&amp;gt;&quot;&gt;
+	Season of Growth
+&lt;/a&gt;
+                    &lt;br /&gt;
+                    4x 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/36/sentinels-eyes?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/3/2/32adc118-b81e-48c2-b7ef-b62e8c3308d6.jpg?1581479235' width=100% height=100%&amp;gt;&quot;&gt;
+	Sentinel's Eyes
+&lt;/a&gt;
+                    &lt;br /&gt;
+                    3x 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/201/setessan-training?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/b/8/b8322d31-6194-4fda-99a3-b6426c57488a.jpg?1581480908' width=100% height=100%&amp;gt;&quot;&gt;
+	Setessan Training
+&lt;/a&gt;
+                    &lt;br /&gt;
+                    3x 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/204/warbriar-blessing?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/1/1/11d64cab-2ed1-46d9-8034-0c2ba3f2e1ed.jpg?1581480932' width=100% height=100%&amp;gt;&quot;&gt;
+	Warbriar Blessing
+&lt;/a&gt;
+                    &lt;/p&gt;
+           &lt;/div&gt;
+           &lt;div class=&quot;col-6&quot;&gt;
+                &lt;b&gt;Creatures&lt;/b&gt;
+                    &lt;p class=&quot;mb-0&quot;&gt;
+                    4x 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/1/alseid-of-lifes-bounty?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/3/6/36c8c075-9597-412e-9fc4-9d73b4405d12.jpg?1581478926' width=100% height=100%&amp;gt;&quot;&gt;
+	Alseid of Life's Bounty
+&lt;/a&gt;
+                    &lt;br /&gt;
+                    3x 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/war/171/paradise-druid?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/6/e/6ed8d9e7-cdad-450d-8329-fa653d387a63.jpg?1557576973' width=100% height=100%&amp;gt;&quot;&gt;
+	Paradise Druid
+&lt;/a&gt;
+                    &lt;br /&gt;
+                    4x 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/198/setessan-champion?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/f/8/f8ce9858-747e-441c-95a8-6af44aa2098d.jpg?1581480884' width=100% height=100%&amp;gt;&quot;&gt;
+	Setessan Champion
+&lt;/a&gt;
+                    &lt;br /&gt;
+                    3x 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/226/siona-captain-of-the-pyleas?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/2/b/2b1d890f-7ef8-47b9-9ec8-f3884a1d09db.jpg?1581481138' width=100% height=100%&amp;gt;&quot;&gt;
+	Siona, Captain of the Pyleas
+&lt;/a&gt;
+                    &lt;br /&gt;
+                    4x 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/40/transcendent-envoy&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/a/9/a9241289-28d2-4827-970e-81bdecbb5c16.jpg?1581479265' width=100% height=100%&amp;gt;&quot;&gt;
+	Transcendent Envoy
+&lt;/a&gt;
+                    &lt;/p&gt;
+                &lt;b&gt;Lands&lt;/b&gt;
+                    &lt;p class=&quot;mb-0&quot;&gt;
+                    2x 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/244/fabled-passage?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/b/8/b841bfa8-7c17-4df2-8466-780ab9a4a53a.jpg?1572491204' width=100% height=100%&amp;gt;&quot;&gt;
+	Fabled Passage
+&lt;/a&gt;
+                    &lt;br /&gt;
+                    9x 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/286/forest?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/c/4/c4be31c4-9cb3-4a07-865b-5621127df660.jpg?1581482262' width=100% height=100%&amp;gt;&quot;&gt;
+	Forest
+&lt;/a&gt;
+                    &lt;br /&gt;
+                    8x 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/278/plains?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/4/0/40aca5ca-a37b-4919-aef6-2510b4779161.jpg?1581481482' width=100% height=100%&amp;gt;&quot;&gt;
+	Plains
+&lt;/a&gt;
+                    &lt;br /&gt;
+                    1x 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/grn/258/temple-garden?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/2/b/2b9b0195-beda-403e-bc27-7ae3be9f318c.jpg?1572894210' width=100% height=100%&amp;gt;&quot;&gt;
+	Temple Garden
+&lt;/a&gt;
+                    &lt;br /&gt;
+                    2x 
+&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/248/temple-of-plenty?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/6/e/6e6256ea-ccb5-4595-8278-44266f922e31.jpg?1581481279' width=100% height=100%&amp;gt;&quot;&gt;
+	Temple of Plenty
+&lt;/a&gt;
+                    &lt;/p&gt;
+            &lt;/div&gt;
+       &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/div&gt;</content><author><name>julian</name></author><category term="Standard" /><summary type="html">Welcome one and all to the first installment of a new series we here at the Brew Crew have dubbed, On the Rocks! No frills, no mixers, no long write-up. The decks featured in this series don’t need that. These are simply decks that we want to play and we figured we’d share the experience. This first installment is no different - Selesnya Auras. Suit up your creatures with only the finest of fineries and then gracefully waltz into the chaos that is the combat step. We have auras that pump, auras that give keywords, creatures that care about auras, creatures that care about enchan-… Ah jeez, I’m monologuing again aren’t I? After I just said no long write-ups… Just watch the video already. (Chev joins me for this one. If you like this, check out his Selesnya Auras Brawl deck tech) Vitu-Gucci Flip Flops Enchantments 4x All That Glitters 1x Angelic Gift 1x Mantle of the Wolf 4x Season of Growth 4x Sentinel's Eyes 3x Setessan Training 3x Warbriar Blessing Creatures 4x Alseid of Life's Bounty 3x Paradise Druid 4x Setessan Champion 3x Siona, Captain of the Pyleas 4x Transcendent Envoy Lands 2x Fabled Passage 9x Forest 8x Plains 1x Temple Garden 2x Temple of Plenty</summary></entry><entry><title type="html">Offspring’s Revenge</title><link href="/rev%20your%20engines/2020/05/15/rye_2.html" rel="alternate" type="text/html" title="Offspring's Revenge" /><published>2020-05-15T00:00:00-04:00</published><updated>2020-05-15T00:00:00-04:00</updated><id>/rev%20your%20engines/2020/05/15/rye_2</id><content type="html" xml:base="/rev%20your%20engines/2020/05/15/rye_2.html">&lt;p&gt;Last week, we explored our new wedge standard with 
 &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/212/titans-nest?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/7/5/75d4e6f3-73cb-4799-bcb9-c1f5bc234a02.jpg?1586521298' width=100% height=100%&amp;gt;&quot;&gt;
 	Titan’s Nest
 &lt;/a&gt;. Messing with the graveyard, self-milling, and being generally tricksy is right up Sultai’s alley. Now we swing to the opposite end of the spectrum with the most straight forward wedge, Mardu: lovers of bloodshed, conflict, and the thrill of the kill. And what’s even better than a bunch of bloodthirsty berserkers charging their foes? A bunch of bloodthirsty berserkers riding into battle on spike-studded motorcycles, Mad Max style! Rev Your Engines my brethren, for we’ll be riding into the Standard battlefield eternal, shiny, and chrome with the might of 
@@ -9,6 +120,7 @@
 &lt;div class=&quot;text-center&quot;&gt;
     &lt;img src=&quot;/assets/images/RYE/rye2/rye2-1.png&quot; style=&quot;max-width: 25%&quot; class=&quot;img-fluid&quot; /&gt;
 &lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/198/offsprings-revenge?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/7/8/78619ffb-f514-4f9f-9d77-3ab49e045f7c.jpg?1586457085' width=100% height=100%&amp;gt;&quot;&gt;
 	Offspring’s Revenge
@@ -37,14 +149,17 @@ A five color pile that pushes the boundaries of what we can reanimate (and the b
 &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m20/136/drakuseth-maw-of-flames?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/d/0/d09af78f-efde-4107-8406-cb12fd11c686.jpg?1563991287' width=100% height=100%&amp;gt;&quot;&gt;
 	Drakuseth, Maw of flames
 &lt;/a&gt;.&lt;/p&gt;
-
 &lt;div class=&quot;text-center&quot;&gt;
     &lt;img src=&quot;/assets/images/RYE/rye2/rye2-2.png&quot; style=&quot;max-width: 25%&quot; class=&quot;img-fluid&quot; /&gt;
 &lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Drakuseth costs a fat seven mana, so instead of paying mana like an honest spellslinger let’s reanimate the big scaly bastard. Oh, and he has haste, so we’ll be dealing three and three and four, &lt;em&gt;immediately&lt;/em&gt;. Drakuseth is great for gunning down our opponents creatures, whether that’s blockers, utility, or ones who’ll crack back at us.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/RYE/rye2/rye2-3.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+	&lt;img src=&quot;/assets/images/RYE/rye2/rye2-3.png&quot; style=&quot;max-width: 70%&quot; class=&quot;img-fluid&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Drakuseth’s molten buddy 
 &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/158/tectonic-giant?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/6/f/6f226550-fc9f-4964-ac62-74f84d0ac3f3.jpg?1581480462' width=100% height=100%&amp;gt;&quot;&gt;
@@ -71,7 +186,10 @@ A five color pile that pushes the boundaries of what we can reanimate (and the b
 	Offspring’s Revenge
 &lt;/a&gt; so escaping it can be favorable as well.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/RYE/rye2/rye2-4.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+	&lt;img src=&quot;/assets/images/RYE/rye2/rye2-4.png&quot; style=&quot;max-width: 70%&quot; class=&quot;img-fluid&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Another way to maintain our onslaught is by blowing up our opponent’s stuff (duh, that’s like magic 101 Jules). 
 &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m20/10/cavalier-of-dawn?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/f/7/f7b1919e-c0c1-4ac7-9061-a337b6fe7273.jpg?1563898234' width=100% height=100%&amp;gt;&quot;&gt;
@@ -260,7 +378,10 @@ A five color pile that pushes the boundaries of what we can reanimate (and the b
 
 &lt;p&gt;Mono-Black has been a fairly powerful deck over the past few standard formats undergoing various transformations, but it’s recently fallen to the wayside. I think a little splash of blood and thunder is exactly what the deck needs to come back with a vengeance.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/RYE/rye2/rye2-6.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+	&lt;img src=&quot;/assets/images/RYE/rye2/rye2-6.png&quot; style=&quot;max-width: 70%&quot; class=&quot;img-fluid&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Mono-Black is not a complicated deck. It wants to curve out; one-drop, two-drop, red-fish, blue-fish, 
 &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/99/gray-merchant-of-asphodel?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/7/c/7c1a7dd8-8034-4f59-a351-33666b26ff5a.jpg?1581479807' width=100% height=100%&amp;gt;&quot;&gt;
@@ -305,6 +426,7 @@ A five color pile that pushes the boundaries of what we can reanimate (and the b
 &lt;div class=&quot;text-center&quot;&gt;
     &lt;img src=&quot;/assets/images/RYE/rye2/rye2-7.png&quot; style=&quot;max-width: 25%&quot; class=&quot;img-fluid&quot; /&gt;
 &lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;This deck’s shell is already pretty set, so after adding 
 &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/198/offsprings-revenge?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/7/8/78619ffb-f514-4f9f-9d77-3ab49e045f7c.jpg?1586457085' width=100% height=100%&amp;gt;&quot;&gt;
@@ -698,7 +820,19 @@ Instead of those we’re going to focus on brews that are relatively easy to put
 &lt;p&gt;We’ve got a pretty impressive lineup available thanks to Theros’s heavy enchantment theme, and a couple powerful standouts from Ikoria and Eldraine. Let’s see the heaviest hitters:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/deckTechs/brawl/dtb-1_1.png&quot; class=&quot;img-fluid&quot; /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;!--Test of new image system--&gt;&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-md-4 col-6 inline-card&quot;&gt;
+		&lt;img src=&quot;https://img.scryfall.com/cards/large/front/d/9/d9713032-2956-4564-b5f5-2dd16245a4e6.jpg?1572489608&quot; class=&quot;img-fluid&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;col-md-4 col-6 inline-card&quot;&gt;
+		&lt;img src=&quot;https://img.scryfall.com/cards/large/front/7/b/7b6e6f2a-5015-44c6-aa8d-85188494d1a6.jpg?1585927210&quot; class=&quot;img-fluid&quot; /&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;col-md-4 col-6 inline-card&quot;&gt;
+		&lt;img src=&quot;https://img.scryfall.com/cards/large/front/5/1/5112ee2a-a6f3-4280-a915-000a97a9cdef.jpg?1581480627&quot; class=&quot;img-fluid&quot; /&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;All that Glitters&lt;/strong&gt; reminds me of my only foray into pauper using a build that centered around 
 &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/uma/223/slippery-bogle?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/c/4/c4e4bbea-7e3f-4de0-bb01-dfd67f21c254.jpg?1547518325' width=100% height=100%&amp;gt;&quot;&gt;
@@ -741,8 +875,10 @@ Instead of those we’re going to focus on brews that are relatively easy to put
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;
 As much as I’d love to wage an all-out assault of auras, we do need to be prepared for the inevitable: our opponent will want to play creatures and stuff as much as we do. This is where the second type of aura in our deck comes in.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/deckTechs/brawl/dtb-1_3.png&quot; class=&quot;img-fluid&quot; /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+	&lt;img src=&quot;/assets/images/deckTechs/brawl/dtb-1_3.png&quot; style=&quot;max-width: 70%&quot; class=&quot;img-fluid&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Trapped in the Tower&lt;/strong&gt;, while conditional, is really worth the two mana. It won’t be able to hit any form of Niv-Mizzet, but clamping down on an indestructible God or any other beast without wings is of incredible benefit. It also has the clause negating activated abilities which puts this over 
 &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mb1/191/pacifism?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/a/b/abbc73f1-efe4-44ed-a97f-9f099afaa5c7.jpg?1573506113' width=100% height=100%&amp;gt;&quot;&gt;
@@ -765,8 +901,10 @@ As much as I’d love to wage an all-out assault of auras, we do need to be prep
 &lt;h2 id=&quot;non-aura-removal&quot;&gt;Non-Aura Removal&lt;/h2&gt;
 &lt;p&gt;We have several  powerful reasons to utilize auras (mainly Siona), but sometimes we need to rid ourselves of a threat more permanently. That’s when we bring in the closers.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/deckTechs/brawl/dtb-1_4.png&quot; class=&quot;img-fluid&quot; /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+	&lt;img src=&quot;/assets/images/deckTechs/brawl/dtb-1_4.png&quot; style=&quot;max-width: 70%&quot; class=&quot;img-fluid&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Banishing Light&lt;/strong&gt; is incredibly potent and the effect of triggering all the Constellation abilities as well as boosting 
 &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/2/all-that-glitters?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/d/9/d9713032-2956-4564-b5f5-2dd16245a4e6.jpg?1572489608' width=100% height=100%&amp;gt;&quot;&gt;
@@ -1246,9 +1384,7 @@ So without further ado, I give you Nikya and her Old Fashioned straight from the
 
 &lt;p&gt;In a Chilled Rocks Glass (or any cup really), mix the sugar with the bitters and a little bit of water before adding the bourbon. Throw in one large ice cube and stir until you get bored then top with orange peel&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://tappedout.net/mtg-decks/nikya-of-the-old-fashioned-1/?cb=1588993977&quot; target=&quot;_blank&quot;&gt;&lt;b&gt;Nikya of the Old Fashioned Deck list&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>chev</name></author><category term="commander" /><category term="bourbon" /><summary type="html">Everyone has their pet decks. In Commander, where cards don’t rotate and power creep is directly proportional to your income, this is especially true.</summary></entry><entry><title type="html">Titan’s Nest</title><link href="/rev%20your%20engines/2020/05/11/rye_1.html" rel="alternate" type="text/html" title="Titan's Nest" /><published>2020-05-11T00:00:00-04:00</published><updated>2020-05-11T00:00:00-04:00</updated><id>/rev%20your%20engines/2020/05/11/rye_1</id><content type="html" xml:base="/rev%20your%20engines/2020/05/11/rye_1.html">&lt;p&gt;Every set Wizards teases us with these niche, often rare or mythic, enchantments, that just scream to be built around. 
-&lt;!--more--&gt;
-These cards can be the core engines of decks that 
+&lt;p&gt;&lt;a href=&quot;https://tappedout.net/mtg-decks/nikya-of-the-old-fashioned-1/?cb=1588993977&quot; target=&quot;_blank&quot;&gt;&lt;b&gt;Nikya of the Old Fashioned Deck list&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>chev</name></author><category term="commander" /><category term="bourbon" /><summary type="html">Everyone has their pet decks. In Commander, where cards don’t rotate and power creep is directly proportional to your income, this is especially true.</summary></entry><entry><title type="html">Titan’s Nest</title><link href="/rev%20your%20engines/2020/05/11/rye_1.html" rel="alternate" type="text/html" title="Titan's Nest" /><published>2020-05-11T00:00:00-04:00</published><updated>2020-05-11T00:00:00-04:00</updated><id>/rev%20your%20engines/2020/05/11/rye_1</id><content type="html" xml:base="/rev%20your%20engines/2020/05/11/rye_1.html">&lt;p&gt;Every set Wizards teases us with these niche, often rare or mythic, enchantments, that just scream to be built around. These cards can be the core engines of decks that 
 rack up mana and card advantage turn after turn to bury the opponent and allow for explosive kill turns…. or, often, they fall overlooked, misunderstood, and forgotten, 
 unable to compete with the raw efficiency of modern card design.&lt;/p&gt;
 &lt;p&gt;
@@ -1258,7 +1394,7 @@ In Standard, you can look to
 &lt;/a&gt; and
 &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/125/fires-of-invention&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.jpg?1572490362' width=100% height=100%&amp;gt;&quot;&gt;
     Fires of Invention
-&lt;/a&gt; (two of the best decks shells currently), but several other enchantments lay in wait in standard that haven’t quite seen their day. Cards like 
+&lt;/a&gt; (two of the best decks currently), but several other enchantments lay in wait in standard that haven’t quite seen their day. Cards like 
 &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/161/underworld-breach&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/0/e/0e51d796-7279-4c06-87f0-37adbdaa41df.jpg?1583750118' width=100% height=100%&amp;gt;&quot;&gt;
     Underworld Breach
 &lt;/a&gt; and 
@@ -1445,7 +1581,13 @@ stop it and we can do everything immediately at instant speed! There’s nothing
 bewildered opponent. 
 &lt;/p&gt;
 &lt;p&gt;
-Here’s the full list for all your copying pleasure. Make sure to watch the video to see the deck in action and hear my mediocre banter and closing thoughts.
+If you ever go to play this deck yourself, I recommend cracking open a nice sour beer. Konrad is truly EVIL (&quot;Every Villian is Lemons&quot;) plotting in the Titan's Nest, and lemons are quite sour. Two of my favorites are 
+&lt;a href=&quot;http://www.druthersbrewing.com/beer/the-dare-gose&quot;&gt;Druthers' Dare&lt;/a&gt; 
+and 
+&lt;a href=&quot;https://www.dogfish.com/brewery/beer/seaquench-ale&quot;&gt;Dogfish Head's Seaquench&lt;/a&gt;.
+&lt;/p&gt;
+&lt;p&gt;
+Here’s the full list for all your copying pleasure, or you can check out our tappedout link to see any of our decks past, present, or future. Make sure to watch the video to see the deck in action and hear my mediocre banter and closing thoughts. 
 &lt;/p&gt;
 
 &lt;h2 id=&quot;bad-eggs-in-the-titans-nest&quot;&gt;Bad Eggs in the Titan’s Nest&lt;/h2&gt;
@@ -1538,7 +1680,7 @@ That’s all for now, but stay tuned for next week where I’ll cover
 &lt;/p&gt;
 &lt;p&gt;
 Until then, stay brewing y’all!
-&lt;/p&gt;</content><author><name>julian</name></author><category term="Standard" /><category term="Ikoria" /><category term="Titan's Nest" /><category term="Syr Konrad, the Grim" /><summary type="html">Every set Wizards teases us with these niche, often rare or mythic, enchantments, that just scream to be built around.</summary></entry><entry><title type="html">Welcome to the Brew Crew!</title><link href="/intro/2020/05/10/welcome.html" rel="alternate" type="text/html" title="Welcome to the Brew Crew!" /><published>2020-05-10T00:00:00-04:00</published><updated>2020-05-10T00:00:00-04:00</updated><id>/intro/2020/05/10/welcome</id><content type="html" xml:base="/intro/2020/05/10/welcome.html">&lt;p&gt;Ladies, gentlemen, boys and girls… Welcome Welcome Welcome! We’re incredibly excited to announce the launch of a brand new platform chock full of incredible Magic the Gathering content brought to you by some of the freshest voices in Magic. This is our first time doing anything of the sort, so we’re basically fresh off the boat.&lt;/p&gt;
+&lt;/p&gt;</content><author><name>julian</name></author><category term="Standard" /><category term="Ikoria" /><category term="Titan's Nest" /><category term="Syr Konrad, the Grim" /><summary type="html">Every set Wizards teases us with these niche, often rare or mythic, enchantments, that just scream to be built around. These cards can be the core engines of decks that rack up mana and card advantage turn after turn to bury the opponent and allow for explosive kill turns…. or, often, they fall overlooked, misunderstood, and forgotten, unable to compete with the raw efficiency of modern card design. In Standard, you can look to Wilderness Reclamation and Fires of Invention (two of the best decks currently), but several other enchantments lay in wait in standard that haven’t quite seen their day. Cards like Underworld Breach and Doom Foretold had brief stints in the limelight, but gems like Firemind’s Research , Enigmatic Incarnation , or Happily Ever After (a man can dream, okay?) have seen love only on the fringes, if at all. Ikoria is no different, with a bevy of incredibly spicy and seemingly powerful enchantments. The ones I’m eyeing currently are the rare shard enchantments and we’re kicking off this series with a real doozey in Titan's Nest ! Welcome to Rev Your Engines, the series where we utilize unique engine enchantments to kick standard into high gear! Will we have a highly tuned engine to take us across the finish line or will we sputter and stall out? (I simultaneously hated and loved making those puns) A Wretched Hive of Scum and Villiany With the right build, Titan’s Nest falls firmly in the “busted” category and I think it could be a major player in standard once rotation comes in the fall. Just reading the card, we essentially give all our spells delve (a mechanic that has gotten cards banned in many formats). Yes, there are some restrictions, no X-spells, only mono-colored spells, but Hydroid Krasis and Expansion//Explosion are too mainstream anyway. Titan’s Nest is also full on Sultai (hooray for the return of wedge support), colors that happen to love putting milling themselves for all sorts of benefit. On the surface, this enchantment can turn our graveyard into a source of ramp to keep our foot on the gas in the mid to late game. But that’s boring. Like I said earlier, this enchantment should not be treated as a fair card, and I intend to use it solely for the forces of evil. And the dastardly villain who has made the Titan’s Nest his lair is none other than Syr Konrad, the Grim . We’re Dealing With a Real Maniac… Syr Konrad was a powerhouse in Throne of Eldraine limited, but in constructed formats he’s been generally overlooked. Some of that might be because he has more lines of text than War and Peace… or more likely because he was turned into an elk. TLDR, any time creatures are entering or leaving the graveyard, Syr Konrad is gonna ping our opponent. They want to wrath, they'll take a bunch of damage. They mill some of our beloved troops, they get pinged a few times. If creatures are banished to the shadow realm (whoops wrong card game) by Titan’s Nest to generate loads of colorless mana…. they take damage for Every. Single. One. That is our dastardly scheme in a nutshell: mill as much of our deck as possible, get a Syr Konrad and Titan’s Nest on the field and huck a putrid fireball from beyond the grave. Bring in the Minions So, what poor saps have been enlisted as Konrad’s minions to be sent to their inevitable unceremonious demise? Syr Konrad doesn’t discriminate. Merfolk, Bird, Gorgon… Wall? He’ll take every helping hand/fin/brick he can get. The common thread among this creature suite is that all these creatures mill us, fueling our Nest and triggering Konrad if he’s out. We’re looking at three to four cards binned per creature we play which adds up very quickly. While there are cards that could self-mill more efficiently in standard, we need a high density of creatures to enact our combo kill. These creatures all come with upside in that they pad our life total or block incredibly well. Gorging Vulture and Mire Triton both boost our life enough to get us that extra turn we need to assemble our combo. Venomous Hierophant and Mire Triton both have deathtouch which is a big deterrent, especially for larger creatures that will outclass our motley crew of recruits. Wall of Lost Thoughts and Merfolk Secretkeeper have big butts to hold back small creatures chipping in, and Glowspore Shaman often trades up. Also, we are not afraid to chump block or take an early trade! It only fuels us once it comes time to go off. Every Super Villian Needs Some Villianous Tools Our non-creature suite is trim, but supports and adds consistency to our gameplan. I like Tamiyo, Collector of Tales a lot. It’s a versatile card, especially with graveyard strategies. It can dig for our combo pieces, milling us more in the process, or regrow things that we milled earlier. We don’t want to dilute our creature count and at four mana, it’s on the higher end of our curve, but I thought trying one out could be interesting. Corpse churn , an Ikoria reprint, is an auto-include. It mills us and can grab a Syr Konrad we milled or just any other fallen soldier to keep the mill train rolling. Once again, this consistency and ability to maintain momentum is important for a combo deck like ours. The Binding of the Titans was a card that intrigued me at release, but never really found a home in any of my decks until now. Given, it takes some turns, but this card is a powerhouse for us. It mills us, it gains life and allows us to pick off a lurking Uro, Titan of Nature's Wrath or Lurrus of the Dream-Den target. Nice. In chapter three we even get to fix our mana or, like Corpse Churn, get back a creature we may need or our fearless leader, Syr Konrad. And then after all that, we can exile the Binding to our Titan’s Nest to play our other spells. Tymaret Calls the Dead as a one-of is just a catch-all slot. It mills more than our other cards, albeit over multiple turns, gains us some life at the end, and if you can exile an already spent Binding, we can get an additional blocker (or attacker if our opponent is playing a creature-light deck). The mana base is mostly basics, just to keep it simple. We want to be going as fast as possible, we cannot wait for tap lands. Add a few shocks and Fabled Passage s to fix and season to taste. The Scheme is Foolproof! The plan is simple, mill yourself as fast possible. Use as much or all of your mana every turn and get those cards in your graveyard. Always keep a track of how many creatures are in there so you know when you’ve reached critical mass. Also, keep track of where your Konrads and Nests are. We need those to win the game, so if you get a chance to nab one back from the yard, get it. As you’re playing your creatures out, block aggressively. We want to conserve our life total as best we can, and we lose nothing from an additional creature in the bin. Also, don’t be afraid to attack! Getting chip-ins is critical to lessening the threshold needed for Konrad to do his thing. Most of our creatures attack well, so get in there if it’s free. Unfortunately, this deck comes with some drawbacks, so let’s discuss what might endanger our victory. Like most combo decks, this deck is incredibly linear and there’s no real interaction for us besides blocking, so a counterspell can hinder us. Also, any sort of exile really hurts. Elspeth Conquers Death hits both our main pieces and something like Elspeth’s Nightmare is a nightmare for us as well wiping out all the progress we’ve made. Sometimes we just won’t draw Titan’s Nest and Syr Konrad, or we’ll mill them. Lastly, we realistically can’t deal much more than twenty damage, so any deck that has lots of life gain can be a problem. But these are issues that plague all but the most resilient of combo decks and they’re risks that we’ll take to play this ridiculous yet beautiful brew. On the flip-side, this deck is not a tier deck. Opponents won’t see their demise coming until it’s too late. And since our pseudo delve is a mana ability, they can’t stop it and we can do everything immediately at instant speed! There’s nothing like stacking up 20 Syr Konrad triggers up and letting them machine-gun down our bewildered opponent. If you ever go to play this deck yourself, I recommend cracking open a nice sour beer. Konrad is truly EVIL (&quot;Every Villian is Lemons&quot;) plotting in the Titan's Nest, and lemons are quite sour. Two of my favorites are Druthers' Dare and Dogfish Head's Seaquench. Here’s the full list for all your copying pleasure, or you can check out our tappedout link to see any of our decks past, present, or future. Make sure to watch the video to see the deck in action and hear my mediocre banter and closing thoughts. Bad Eggs in the Titan’s Nest Creatures 2x Glowspore Shaman 4x Gorging Vulture 4x Merfolk Secretkeeper 4x Mire Triton 4x Syr Konrad, the Grim 4x Venomous Hierophant 4x Wall of Lost Thoughts Instants 3x Corpse Churn Planeswalkers 1x Tamiyo, Collector of Tales Enchantments 3x The Binding of the Titans 4x Titan’s Nest 1x Tymaret Calls the Dead Lands 1x Breeding Pool 4x Fabled Passage 3x Forest 4x Island 4x Overgrown Tomb 5x Swamp 1x Watery Grave That’s all for now, but stay tuned for next week where I’ll cover Offspring's Revenge , another fun Ikoria enchantment! If there’s any other cards you’d like to see brewed around, down below is contact info for your messaging medium of choice. Until then, stay brewing y’all!</summary></entry><entry><title type="html">Welcome to the Brew Crew!</title><link href="/intro/2020/05/10/welcome.html" rel="alternate" type="text/html" title="Welcome to the Brew Crew!" /><published>2020-05-10T00:00:00-04:00</published><updated>2020-05-10T00:00:00-04:00</updated><id>/intro/2020/05/10/welcome</id><content type="html" xml:base="/intro/2020/05/10/welcome.html">&lt;p&gt;Ladies, gentlemen, boys and girls… Welcome Welcome Welcome! We’re incredibly excited to announce the launch of a brand new platform chock full of incredible Magic the Gathering content brought to you by some of the freshest voices in Magic. This is our first time doing anything of the sort, so we’re basically fresh off the boat.&lt;/p&gt;
 
 &lt;div class=&quot;text-center&quot;&gt;
     &lt;img src=&quot;https://media.giphy.com/media/GCLlQnV7wzKLu/giphy.gif&quot; style=&quot;max-width: 50%&quot; class=&quot;img-fluid&quot; /&gt;
