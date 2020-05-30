@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/authors/chev.html</loc>
-<lastmod>2020-05-19T10:26:40-04:00</lastmod>
+<lastmod>2020-05-30T15:01:58-04:00</lastmod>
 </url>
 <url>
 <loc>/authors/julian.html</loc>
-<lastmod>2020-05-19T10:26:40-04:00</lastmod>
+<lastmod>2020-05-30T15:01:58-04:00</lastmod>
 </url>
 <url>
 <loc>/intro/2020/05/10/welcome.html</loc>
@@ -21,7 +21,7 @@
 <lastmod>2020-05-11T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>/deck%20tech/2020/05/14/brawldt_1.html</loc>
+<loc>/homebrewed/2020/05/14/brawldt_1.html</loc>
 <lastmod>2020-05-14T00:00:00-04:00</lastmod>
 </url>
 <url>
@@ -31,6 +31,22 @@
 <url>
 <loc>/on%20the%20rocks/2020/05/19/otr_1.html</loc>
 <lastmod>2020-05-19T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>/homebrewed/2020/05/28/Zirda_combo.html</loc>
+<lastmod>2020-05-28T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>/primer/2020/05/28/brawl_primer.html</loc>
+<lastmod>2020-05-28T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>/homebrewed/2020/05/28/brawldt_2.html</loc>
+<lastmod>2020-05-28T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>/on%20the%20rocks/2020/05/28/otr_2_cycling.html</loc>
+<lastmod>2020-05-28T00:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>/about.html</loc>

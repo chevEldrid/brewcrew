@@ -28,7 +28,7 @@
 
 .desktop-navlink { font-size: 1.5rem; }
 
-.inline-card { padding-right: 0; padding-left: 0; }
+.inline-card { padding-right: 0.1rem; padding-left: 0.1rem; padding-bottom: 0.1rem; }
 
 .inline-pics-1 { max-width: 25%; }
 
