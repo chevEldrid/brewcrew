@@ -30,12 +30,6 @@
 
 .inline-card { padding-right: 0.1rem; padding-left: 0.1rem; padding-bottom: 0.1rem; }
 
-.inline-pics-1 { max-width: 25%; }
-
-.inline-pics-2 { max-width: 50%; }
-
-.inline-pics-3 { max-width: 70%; }
-
 .sidenav { height: 100%; width: 0; position: fixed; z-index: 1; top: 0; left: 0; background-color: #111; overflow-x: hidden; transition: 0.5s; padding-top: 60px; }
 
 .sidenav a { padding: 8px 8px 8px 32px; text-decoration: none; font-size: 25px; color: #818181; display: block; transition: 0.3s; }
