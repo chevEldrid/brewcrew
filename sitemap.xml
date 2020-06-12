@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/authors/chev.html</loc>
-<lastmod>2020-06-09T15:59:44-04:00</lastmod>
+<lastmod>2020-06-12T17:57:33-04:00</lastmod>
 </url>
 <url>
 <loc>/authors/julian.html</loc>
-<lastmod>2020-06-09T15:59:44-04:00</lastmod>
+<lastmod>2020-06-12T17:57:33-04:00</lastmod>
 </url>
 <url>
 <loc>/intro/2020/05/10/welcome.html</loc>
@@ -59,6 +59,14 @@
 <url>
 <loc>/weekly%20update/2020/06/09/weekly_update.html</loc>
 <lastmod>2020-06-09T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>/rev%20your%20engines/2020/06/11/rye_3.html</loc>
+<lastmod>2020-06-11T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>/homebrewed/2020/06/12/brawldt_3.html</loc>
+<lastmod>2020-06-12T00:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>/about.html</loc>
