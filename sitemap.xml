@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/authors/chev.html</loc>
-<lastmod>2020-06-12T17:57:33-04:00</lastmod>
+<lastmod>2020-06-17T08:48:46-04:00</lastmod>
 </url>
 <url>
 <loc>/authors/julian.html</loc>
-<lastmod>2020-06-12T17:57:33-04:00</lastmod>
+<lastmod>2020-06-17T08:48:46-04:00</lastmod>
 </url>
 <url>
 <loc>/intro/2020/05/10/welcome.html</loc>
@@ -69,6 +69,14 @@
 <lastmod>2020-06-12T00:00:00-04:00</lastmod>
 </url>
 <url>
+<loc>/homebrewed/2020/06/16/commanddt_1.html</loc>
+<lastmod>2020-06-16T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>/weekly%20update/2020/06/16/weekly_update.html</loc>
+<lastmod>2020-06-16T00:00:00-04:00</lastmod>
+</url>
+<url>
 <loc>/about.html</loc>
 </url>
 <url>
@@ -82,5 +90,8 @@
 </url>
 <url>
 <loc>/tags.html</loc>
+</url>
+<url>
+<loc>/page2/</loc>
 </url>
 </urlset>
