@@ -1,6 +1,6 @@
 .accented-link { color: #c23b3b; }
 
-.accented-link:hover { color: #c23b3b; }
+.accented-link:hover { color: #c23b3b; text-decoration: none; }
 
 .accented-link-two { color: black; }
 
@@ -25,6 +25,8 @@
 .post-link { text-decoration: none; color: black; }
 
 .post-link:hover { text-decoration: none; color: black; }
+
+.no-margin { margin-bottom: 0; }
 
 .desktop-navlink { font-size: 1.5rem; }
 
