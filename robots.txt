@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://brewcrew.net/sitemap.xml
