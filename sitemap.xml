@@ -2,15 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://brewcrew.net/authors/chev.html</loc>
-<lastmod>2020-07-28T07:46:49-06:00</lastmod>
+<lastmod>2020-07-30T21:15:45-06:00</lastmod>
 </url>
 <url>
 <loc>https://brewcrew.net/authors/eric.html</loc>
-<lastmod>2020-07-28T07:46:49-06:00</lastmod>
+<lastmod>2020-07-30T21:15:45-06:00</lastmod>
 </url>
 <url>
 <loc>https://brewcrew.net/authors/julian.html</loc>
-<lastmod>2020-07-28T07:46:49-06:00</lastmod>
+<lastmod>2020-07-30T21:15:45-06:00</lastmod>
 </url>
 <url>
 <loc>https://brewcrew.net/intro/2020/05/10/welcome.html</loc>
@@ -111,6 +111,10 @@
 <url>
 <loc>https://brewcrew.net/plus40/2020/07/28/jolrael_p40.html</loc>
 <lastmod>2020-07-28T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>https://brewcrew.net/homebrewed/2020/07/30/ToughMeanDeadly.html</loc>
+<lastmod>2020-07-30T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>https://brewcrew.net/about.html</loc>
