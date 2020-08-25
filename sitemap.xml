@@ -2,19 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://brewcrew.net/authors/chev.html</loc>
-<lastmod>2020-08-24T08:47:13-07:00</lastmod>
+<lastmod>2020-08-25T08:32:37-07:00</lastmod>
 </url>
 <url>
 <loc>https://brewcrew.net/authors/eric.html</loc>
-<lastmod>2020-08-24T08:47:13-07:00</lastmod>
+<lastmod>2020-08-25T08:32:37-07:00</lastmod>
 </url>
 <url>
 <loc>https://brewcrew.net/authors/julian.html</loc>
-<lastmod>2020-08-24T08:47:13-07:00</lastmod>
+<lastmod>2020-08-25T08:32:37-07:00</lastmod>
 </url>
 <url>
 <loc>https://brewcrew.net/authors/oakley.html</loc>
-<lastmod>2020-08-24T08:47:13-07:00</lastmod>
+<lastmod>2020-08-25T08:32:37-07:00</lastmod>
 </url>
 <url>
 <loc>https://brewcrew.net/intro/2020/05/10/welcome.html</loc>
@@ -137,6 +137,10 @@
 <lastmod>2020-08-18T00:00:00-07:00</lastmod>
 </url>
 <url>
+<loc>https://brewcrew.net/on%20the%20rocks/2020/08/25/temur_adventures.html</loc>
+<lastmod>2020-08-25T00:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>https://brewcrew.net/about.html</loc>
 </url>
 <url>
@@ -183,5 +187,8 @@
 </url>
 <url>
 <loc>https://brewcrew.net/page2/</loc>
+</url>
+<url>
+<loc>https://brewcrew.net/page3/</loc>
 </url>
 </urlset>

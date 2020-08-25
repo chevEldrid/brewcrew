@@ -1,4 +1,170 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://brewcrew.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://brewcrew.net/" rel="alternate" type="text/html" /><updated>2020-08-24T08:47:13-07:00</updated><id>https://brewcrew.net/feed.xml</id><title type="html">The Brew Crew</title><subtitle>Magic the Gathering and Magic Arena decks, strategy, and commentary</subtitle><entry><title type="html">Whole Lotta Lands (Brawl)</title><link href="https://brewcrew.net/enter%20the%20guildhall/2020/08/18/radha_brawl.html" rel="alternate" type="text/html" title="Whole Lotta Lands (Brawl)" /><published>2020-08-18T00:00:00-07:00</published><updated>2020-08-18T00:00:00-07:00</updated><id>https://brewcrew.net/enter%20the%20guildhall/2020/08/18/radha_brawl</id><content type="html" xml:base="https://brewcrew.net/enter%20the%20guildhall/2020/08/18/radha_brawl.html">&lt;p&gt;Ahhhh It’s been a while since I’ve been able to publish something and boy does it feel good! After a week and a half spent driving across the country and getting acclimated to the constant sunshine and mellow temperatures of Southern California, I can once again spend countless hours inside with the blinds closed playing Arena. We’re back…&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="https://brewcrew.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://brewcrew.net/" rel="alternate" type="text/html" /><updated>2020-08-25T08:32:37-07:00</updated><id>https://brewcrew.net/feed.xml</id><title type="html">The Brew Crew</title><subtitle>Magic the Gathering and Magic Arena decks, strategy, and commentary</subtitle><entry><title type="html">There’s No ‘I’ in Temur Adventures(Standard)</title><link href="https://brewcrew.net/on%20the%20rocks/2020/08/25/temur_adventures.html" rel="alternate" type="text/html" title="There's No 'I' in Temur Adventures(Standard)" /><published>2020-08-25T00:00:00-07:00</published><updated>2020-08-25T00:00:00-07:00</updated><id>https://brewcrew.net/on%20the%20rocks/2020/08/25/temur_adventures</id><content type="html" xml:base="https://brewcrew.net/on%20the%20rocks/2020/08/25/temur_adventures.html">&lt;p&gt;Welcome back one and all to the fifth installment of &lt;em&gt;On the Rocks&lt;/em&gt;! After multiple big shake-ups in Standard, I can sort of play base Simic decks with a reasonable conscience. So today I reunited with one of my favorite decks from the beginning of this year: Temur Adventures!&lt;/p&gt;
+
+&lt;p&gt;After the disappointing performance of Naya Adventures last time, this deck really brings the heat. Once again, I cast &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/115/bonecrusher-giant-stomp?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/9/09fd2d9c-1793-4beb-a3fb-7a869f660cd4.jpg?1572490299' width=100% height=100%&amp;gt;&quot;&gt;
+	Bonecrusher Giant
+&lt;/a&gt; a lot. Take a drink every time I say, “Crush,” it’ll be fun.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;Giants, Faeries, and Beasts! Oh My!&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-2&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;col-md-8&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-6&quot;&gt;
+&lt;b&gt;Artifacts&lt;/b&gt;
+    &lt;p class=&quot;mb-0&quot;&gt;
+    4x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/226/lucky-clover?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/b/4b5d23a6-3a23-4169-aea1-f10bf5153180.jpg?1572491036' width=100% height=100%&amp;gt;&quot;&gt;
+	Lucky Clover
+&lt;/a&gt;
+    &lt;/p&gt;
+&lt;b&gt;Creatures&lt;/b&gt;
+&lt;p class=&quot;mb-0&quot;&gt;
+    4x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/149/beanstalk-giant-fertile-footsteps?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/6/a66f5ea7-ddbb-4b89-b812-77bd17972cf9.jpg?1572490506' width=100% height=100%&amp;gt;&quot;&gt;
+	Beanstalk Giant
+&lt;/a&gt;
+    &lt;br /&gt;
+    4x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/115/bonecrusher-giant-stomp?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/9/09fd2d9c-1793-4beb-a3fb-7a869f660cd4.jpg?1572490299' width=100% height=100%&amp;gt;&quot;&gt;
+	Bonecrusher Giant
+&lt;/a&gt;
+    &lt;br /&gt; 
+    4x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/39/brazen-borrower-petty-theft?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/2/c2089ec9-0665-448f-bfe9-d181de127814.jpg?1572489838' width=100% height=100%&amp;gt;&quot;&gt;
+	Brazen Borrower
+&lt;/a&gt;
+    &lt;br /&gt;
+    4x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/151/edgewall-innkeeper?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/c/7c5d0560-f9e6-4c70-8cce-cae61e4e74bc.jpg?1572490518' width=100% height=100%&amp;gt;&quot;&gt;
+	Edgewall Innkeeper
+&lt;/a&gt;
+    &lt;br /&gt;
+    4x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/44/fae-of-wishes-granted?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/3/e3435fd6-8f51-4d99-a278-4ddb088acfe1.jpg?1572489870' width=100% height=100%&amp;gt;&quot;&gt;
+	Fae of Wishes
+&lt;/a&gt;
+    &lt;br /&gt;
+    4x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/165/lovestruck-beast-hearts-desire?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/c/4ccdef9c-1e85-4358-8059-8972479f7556.jpg?1572490606' width=100% height=100%&amp;gt;&quot;&gt;
+	Lovestruck Beast
+&lt;/a&gt;
+    &lt;/p&gt;
+                &lt;b&gt;Instants&lt;/b&gt;
+                            &lt;p class=&quot;mb-0&quot;&gt;
+                        2x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m20/42/aether-gust?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/8/783da808-6698-4e55-9fac-430a6effe2b1.jpg?1592516251' width=100% height=100%&amp;gt;&quot;&gt;
+	Aether Gust
+&lt;/a&gt;
+				&lt;br /&gt;
+				1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/74/sublime-epiphany?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/d/ad1bcb44-a562-4f66-b862-6d0ef3546ab4.jpg?1594735795' width=100% height=100%&amp;gt;&quot;&gt;
+	Sublime Epiphany
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;b&gt;Planeswalkers&lt;/b&gt;
+                            &lt;p class=&quot;mb-0&quot;&gt;
+                        1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/war/169/nissa-who-shakes-the-world?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/8/f857bbe4-5619-4733-a0c7-69700f2ef4f3.jpg?1557576960' width=100% height=100%&amp;gt;&quot;&gt;
+	Nissa, Who Shakes the World
+&lt;/a&gt;
+&lt;/p&gt;
+ 
+&lt;b&gt;Sorceries&lt;/b&gt;
+                            &lt;p class=&quot;mb-0&quot;&gt;
+                        1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/189/escape-to-the-wilds?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/e/3e26c10b-179f-4a6e-bc8d-3ec1d6783fb9.jpg?1572490745' width=100% height=100%&amp;gt;&quot;&gt;
+	Escape to the Wilds
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/189/genesis-ultimatum?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/5/556dfe7a-43e8-4801-ad79-89ab2148eca6.jpg?1591228052' width=100% height=100%&amp;gt;&quot;&gt;
+	Genesis Ultimatum
+&lt;/a&gt;
+&lt;/p&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-6&quot;&gt;
+ 
+&lt;b&gt;Lands&lt;/b&gt;
+&lt;p class=&quot;mb-0&quot;&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/rna/246/breeding-pool?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/b/bb54233c-0844-4965-9cde-e8a4ef3e11b8.jpg?1584832238' width=100% height=100%&amp;gt;&quot;&gt;
+	Breeding Pool
+&lt;/a&gt;
+&lt;br /&gt;
+4x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/246/fabled-passage?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/3/d313d051-7295-4884-8cbf-f2f835fd45f4.jpg?1594737636' width=100% height=100%&amp;gt;&quot;&gt;
+	Fabled Passage
+&lt;/a&gt;
+&lt;br /&gt;
+7x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/anb/112/forest?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/e/7ef83f4c-d3ff-4905-a16d-f2bae673a5b2.jpg?1597375433' width=100% height=100%&amp;gt;&quot;&gt;
+	Forest
+&lt;/a&gt;
+&lt;br /&gt;
+2x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/anb/114/mountain?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/3/330e5230-7c5a-4720-b582-1087e5aa0cf8.jpg?1597375432' width=100% height=100%&amp;gt;&quot;&gt;
+	Mountain
+&lt;/a&gt;
+&lt;br /&gt;
+6x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/anb/113/island?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/a/7a8550f5-cf3c-4061-8010-74b3d8709c68.jpg?1597375429' width=100% height=100%&amp;gt;&quot;&gt;
+	Island
+&lt;/a&gt;
+&lt;br /&gt;
+4x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/250/ketria-triome?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/2/a249b1f4-2b22-4b67-a207-e0c4ae95d2e1.jpg?1591228658' width=100% height=100%&amp;gt;&quot;&gt;
+	Ketria Triome
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/grn/257/steam-vents?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/8/b8ebe3cf-7143-453a-b0ef-2f5bdaac3185.jpg?1572894204' width=100% height=100%&amp;gt;&quot;&gt;
+	Steam Vents
+&lt;/a&gt;
+&lt;br /&gt;
+2x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/rna/259/stomping-ground?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/c/dcaa1ff6-304e-4660-9df3-36de8e89592e.jpg?1584832363' width=100% height=100%&amp;gt;&quot;&gt;
+	Stomping Ground
+&lt;/a&gt;
+&lt;/p&gt;    
+&lt;b&gt;Sideboard&lt;/b&gt;
+&lt;p class=&quot;mb-0&quot;&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/grn/37/disdainful-stroke?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/1/0193dfa3-8409-44be-b4be-6c3cad42d4a4.jpg?1572892724' width=100% height=100%&amp;gt;&quot;&gt;
+	Disdainful Stroke
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/war/192/domris-ambush?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/0/b0dcae59-e9be-45a8-8ed8-5b47309bb716.jpg?1557577110' width=100% height=100%&amp;gt;&quot;&gt;
+	Domri’s Ambush
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/grn/224/expansion-explosion?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/0/e0644c92-4d67-475e-8c8e-0e2c493682fb.jpg?1572893978' width=100% height=100%&amp;gt;&quot;&gt;
+	Expansion//Explosion
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/320/fling?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/f/8f42d773-c742-4465-b6d5-31feaba49146.jpg?1592707045' width=100% height=100%&amp;gt;&quot;&gt;
+	Fling
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/rna/226/incubation-incongruity?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/d/dd3a4d6e-34ae-4047-a9c7-11e28b0a276d.jpg?1584832050' width=100% height=100%&amp;gt;&quot;&gt;
+	Incubation//Incongruity
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/180/mystic-repeal?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/7/6797195a-508f-45b1-964d-da842dc46ca8.jpg?1581480711' width=100% height=100%&amp;gt;&quot;&gt;
+	Mystic Repeal
+&lt;/a&gt;
+&lt;br /&gt;
+2x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m20/69/negate?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/3/33b83158-78b4-425e-8379-be3ef038295c.jpg?1592516456' width=100% height=100%&amp;gt;&quot;&gt;
+	Negate
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/168/once-and-future?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/c/1c5dd4e8-4d5f-45a0-9cae-4f842751894d.jpg?1572490622' width=100% height=100%&amp;gt;&quot;&gt;
+	Once and Future
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m20/154/reckless-air-strike?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/8/68391b41-4a17-4450-a8ac-0ce8406fe8c1.jpg?1592517048' width=100% height=100%&amp;gt;&quot;&gt;
+	Reckless Air Strike
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/135/redcap-melee?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/b/6bd1dd34-d480-4dfd-9f82-73c4e24a11fc.jpg?1572490418' width=100% height=100%&amp;gt;&quot;&gt;
+	Redcap Melee
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/200/return-to-nature?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/f/3f1b4490-d96d-4448-835b-6cc453c1f344.jpg?1594737172' width=100% height=100%&amp;gt;&quot;&gt;
+	Return to Nature
+&lt;/a&gt;
+&lt;br /&gt;
+2x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/157/storms-wrath?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/b/4bc9ecd2-7664-471b-90f2-2d0dd1acec80.jpg?1581480444' width=100% height=100%&amp;gt;&quot;&gt;
+	Storm’s Wrath
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/236/shadowspear?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/3/939c6e19-4b27-4023-bb9c-ae440f91e21c.jpg?1581481207' width=100% height=100%&amp;gt;&quot;&gt;
+	Shadowspear
+&lt;/a&gt;
+&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content><author><name>julian</name></author><category term="Standard" /><summary type="html">Welcome back one and all to the fifth installment of On the Rocks! After multiple big shake-ups in Standard, I can sort of play base Simic decks with a reasonable conscience. So today I reunited with one of my favorite decks from the beginning of this year: Temur Adventures! After the disappointing performance of Naya Adventures last time, this deck really brings the heat. Once again, I cast Bonecrusher Giant a lot. Take a drink every time I say, “Crush,” it’ll be fun. Giants, Faeries, and Beasts! Oh My! Artifacts 4x Lucky Clover Creatures 4x Beanstalk Giant 4x Bonecrusher Giant 4x Brazen Borrower 4x Edgewall Innkeeper 4x Fae of Wishes 4x Lovestruck Beast Instants 2x Aether Gust 1x Sublime Epiphany Planeswalkers 1x Nissa, Who Shakes the World Sorceries 1x Escape to the Wilds 1x Genesis Ultimatum Lands 1x Breeding Pool 4x Fabled Passage 7x Forest 2x Mountain 6x Island 4x Ketria Triome 1x Steam Vents 2x Stomping Ground Sideboard 1x Disdainful Stroke 1x Domri’s Ambush 1x Expansion//Explosion 1x Fling 1x Incubation//Incongruity 1x Mystic Repeal 2x Negate 1x Once and Future 1x Reckless Air Strike 1x Redcap Melee 1x Return to Nature 2x Storm’s Wrath 1x Shadowspear</summary></entry><entry><title type="html">Whole Lotta Lands (Brawl)</title><link href="https://brewcrew.net/enter%20the%20guildhall/2020/08/18/radha_brawl.html" rel="alternate" type="text/html" title="Whole Lotta Lands (Brawl)" /><published>2020-08-18T00:00:00-07:00</published><updated>2020-08-18T00:00:00-07:00</updated><id>https://brewcrew.net/enter%20the%20guildhall/2020/08/18/radha_brawl</id><content type="html" xml:base="https://brewcrew.net/enter%20the%20guildhall/2020/08/18/radha_brawl.html">&lt;p&gt;Ahhhh It’s been a while since I’ve been able to publish something and boy does it feel good! After a week and a half spent driving across the country and getting acclimated to the constant sunshine and mellow temperatures of Southern California, I can once again spend countless hours inside with the blinds closed playing Arena. We’re back…&lt;/p&gt;
 
 &lt;p&gt;…and with quite the spicy brew! This deck actually took me quite some time to tweak and get juuust right, but I have a feeling you’ll love the end product. For this fine installment of &lt;em&gt;Enter the Guildhall&lt;/em&gt; we’ll be following &lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/224/radha-heart-of-keld?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/2/b/2bbd37b1-49cb-4295-9a1f-fb85368a8f12.jpg?1594737431' width=100% height=100%&amp;gt;&quot;&gt;
 	Radha, Heart of Keld
@@ -3593,480 +3759,4 @@ Boom. Game over. Hulk SMASH.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://tappedout.net/mtg-decks/tts-ukkima-pack-tactics-competitive/?cb=1594533256&quot; target=&quot;_blank&quot;&gt;Full Decklist&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Alright! That’s all folks! Thanks a ton for reading through this article. I wish you good luck and happy hunting with either of these decks. If you have any commander’s you’d like to see me go over in future articles like this, let me know in the comments or on &lt;em&gt;The Brew Crew&lt;/em&gt; Twitter. Next week I’ll be going over yet another Naya commander, as it is the best color combination… Hold on, I think I hear someone ringing &lt;em&gt;The Brew Crew&lt;/em&gt; doorbell. Looks like the Azorius Senate. I’ll deal with these schmucks and get back to you as soon as I can.&lt;/p&gt;</content><author><name>eric</name></author><category term="Commander" /><summary type="html">Welcome back to another article in The Top Shelf series. This week we will be dipping back into the well of commander precons. C20 featured the return of Partners with, a mechanic I found very interesting and was happy to see again. I think that Partners with outshines the original Partners mechanic because it allows the design team to build in bespoke synergies or game plans with a lower risk of accidentally creating something overpowered. In an effort to branch out from my comfort colors of Naya, I’ll be looking at a Sultai deck this week! (I won’t give up green, you can’t make me. I have rights!) Cazur, Ruthless Stalker and Ukkima, Stalking Shadow are great partners, where the synergy immediately jumps out at you. Swing in with Ukkima to get buffs from Cazur and quickly snowball into a commander damage win or burn for a bunch when your whale wolf leaves the battlefield. In this article we will be exploring a build that falls into this high synergy, partner focused, category and a very interesting competitive take utilizing Food Chain combos. The Power to Bite Let’s jump into our budget list first. The deck should run you under $200 and offer a well-tuned gameplan. It will focus on beefing up Ukkima, Stalking Shadow to land powerful hits and to punish our opponents for removing him. We want Ukkima’s growth to be permanent, so we are going to be focusing mainly on +1/+1 counters as opposed to combat tricks and temporary buffs. When building this deck, my mind immediately jumped to cards like Hardened Scales , Winding Constrictor , and Corpsejack Menace . These cards will give us significant incremental growth to bolster the counters we are already building up on Ukkima. Strategies that rely on counters always love Proliferate, so we can toss in Thrummingbird and Inexorable Tide as well. Finally, I always find it helpful to sometimes just win the game, so let’s have Simic Ascendancy as our cherry on top. There are a few all-star cards when it comes to +1/+1 counters we get to include that I’m very excited about. Reyhan, Last of the Abzan is great at saving the counters from our dying creatures and getting them back on Ukkima where they belong. Forgotten Ancient also does a great job of sharing the wealth of +1/+1 counters, eventually funneling them onto our favorite Whale Wolf. Vorel of the Hull Clade and Hydra’s Growth let us stomp on the gas and kill our opponents much faster by just doubling the counters on Ukkima. Speaking of killing our opponents quickly… Don’t tell anyone I told you, but Tainted Strike is super gross in this deck and you should absolutely run it. I can’t say it’ll win you friends but I’ll be damned if it doesn’t win games. Now that Ukkima is big, we’ve painted a target on our backs. People will try to lock him down but may be careful about killing him for fear of the damage he’ll do when he dies. I expect to see a fair amount of hate aimed at us as soon as Ukkima’s any larger than 6/6. We can always try to prevent his destruction, but then we have to go through the whole rigmarole that is the commander tax and dodging counterspells. Instead let’s just swerve that and blink that boi! Displace and Ghostly Flicker are spells that will help us save Ukkima and Cazur from any targeted removal. Evacuation and Flood of Tears act as the nuclear option, allowing us to fully reset the board, sometimes we even get to put Ukkima or another key creature right back into play. Under the Sea: Darlin blue’s better, down where it’s wetter, take it from me! Let’s talk draw. In our last Top Shelf article we were relying on green to move through our deck… Spoiler: that’s not very good. In this deck we’ll still be looking to green for cards like Greater Good to help with drawing cards, but now that we have blue and black a lot of new doors are open to us. Cold-Eyed Selkie and Edric, Spymaster of Trest will work very well with Cazur, Ruthless Stalker , allowing us to get more benefits from our attacks and draw some cards. Mystic Remora , also known as THE FISH, will be a great draw tool for us. You’ll never get tired of interrupting your friends with “You gonna pay four for that?” (Another spoiler: they probably won’t be paying four) Of One Mind and Treasure Cruise let you draw multiple cards for one mana in a lot of situations, which is really gonna help us find our powerful cards. Finally, shoutout to Tezzeret’s Gambit for being a totally fine draw spell that also gives us more proliferate. Read the Bones is a classic example of Black’s style of draw, turning in some small portion of your life for resources. Sign in Blood and Night’s Whisper are both similar draw options, so we’ll be running both of those as well. When we combine black with blue we get some unique draw adjacent effects. Fallen Shinobi and Mythos of Brokkos are great examples of resource generation that don’t necessarily fit into the category of draw. Now that we can move through our deck even faster, we want a lot of mana to play as many of these awesome cards as quickly as possible. There’s not a ton of unique ramp in here so I’ll keep this quick. We’re gonna run a standard set of mana dorks like Llanowar Elves and Elvish Mystic as a baseline. Then drop in a nice mix of ramp sorceries. Migration Path is a nice new ramp spell, but who could forget the classics such as Kodama’s Reach and Cultivate . We’ll put all of ‘em in just to be safe. Spells like this are actually going to work really well with Evolution Sage to keep those counters growing. Hunting Tactics: So, we have our battle plan and our pack (pod? pock? We’ll stick with pack) behind us. Now let’s start circling in for the kill. Blue and black are going to give us the ability to easily disrupt our opponent’s game plan as we are working on our own. Counterspell is the OG, but Arcane Denial is a personal favorite. Conditional counterspells and removal are often a great include. It’s pretty easy to find options where either the condition is easy to manipulate or accidentally achieve. Drown in the Loch is a great card in this category. Finally, cards like Putrefy and Beast Within will help us clear out any final permanents stopping Ukkima from going in for the kill. That’s the full story for our first deck. As usual I’ve included some options that you may want to toss in from the maybe board depending on your preference or meta. Take a look at the full list below and let’s head onto our next deck! Full Decklist In R’lyeh We Wait Dreaming Now, the competitive version of this deck is much better known than the Atla Palani, Nest Tender deck from last week, but I’m still excited to give my take on it. As I mentioned earlier, we’re going to be mainly looking for a Food Chain combo to win the game. Eternal Scourge and Misthollow Griffin are both able to be cast from exile after they’re banished to the shadow realm via Food Chain . This will allow us to generate one additional colored mana (which can only be spent on creatures) each time we go through the loop. Repeat said loop an infinite amount of times and Boom! infinite mana! This will allow us to repeatedly cast, Ukkima, Stalking Shadow , who when exiled or returned to the command zone is able to damage equal to his power. So we’ll be looking to end most games by spending our infinite mana casting and exiling him over and over again, wiping the table. I personally do not like Thassa’s Oracle . I think Demonic Consultation and Tainted Pact wins with this card are far too generic and easy to pull off in any UBX shell, BUT! This is one of those UBX shells, so we’ll be running them and I’ll find another time or article to offer my full opinion on this. Jace, Wielder of Mysteries will act as a nice backup to the Oracle. If you happen to feel the same as me, it’s actually really easy to swap out these four cards with Deadeye Navigator , Peregrine Drake , and Palinchron . This also eliminates the need for a singleton manabase, which can help cut down on deck cost. In this version we just create infinite mana then blink Ukkima for the win, instead of exiling him with Food Chain . On the Hunt… For Our Combo Now that we know how to win with this version of the deck, let’s sniff out those combo pieces. Standard black and blue draw are going to help us build a solid foundation to find the cards we’re looking for. Necropotence and Notion Thief will be able to hopefully allow us to draw a lot of cards at once. While we’ll be running some of the more ubiquitous draw spells, like Ponder , Brainstorm , and other cantrips, we get to run some very weird cards that border on being tutors because we are a Food Chain deck. Foresight and Manipulate Fate let us pre-exile either Eternal Scourge or Misthollow Griffin . Extract will also enable our Food Chain combos, but can be used to remove key combo pieces from your opponent’s decks if it comes to it. There are more cards that ride this line between tutoring and drawing cards. Lim-Dul’s Vault and Plunge Into Darkness will allow us to seek specific combo pieces or key cards we need in a moment. These cards are very powerful, but if you play in a meta where chip damage and life total is relevant they should probably be used as a last resort to either lock in your win or stop someone else’s. Almost all of our tutors will be split between those that only find creatures and those that can help us find anything we’d like. Worldly Tutor and Neoform will help us find our creature based win-conditions, but generic tutors can help find those as well. Grim Tutor , Demonic Tutor , and Vampiric Tutor are all going to be awesome for us. We can hunt down any card we need pretty cheaply and efficiently. Cazur is Still Here… Kinda Unlike the more casual version of the deck, Cazur is probably not going to be in play much. He does offer his friend Ukkima certain benefits though, if you know what I mean… Yeah, I’m talking about green ramp. We’ll be stuffing our deck to the gills with mana dorks and other spells to speed up our curve. Bloom Tender and Arbor Elf are often great choices for multi colored decks, as they can generate multiple mana and/or multiple colors of mana. Wall of Roots and Elvish Spirit Guide are great for generating mana quickly and immediately if the need arises. Alternatively, Deathrite Shaman exile key cards from our opponents’ graveyards, potentially even saving a game, when we aren’t using it for mana. For non-creature based mana sources, Carpet of Flowers is still just as good as it was last week. The list of mana artifacts we’ll be running is the same as last week. I’ll be looking more into cool artifacts and artifact focused decks in the future, but for right now I’m not a big enough expert to make any hot takes. To be clear, Cazur isn’t just in the deck to activate our ramp cards. He also turns on some of our powerful interaction spells. Abrupt Decay and Assassin’s Trophy are great removal tools in the deck, that Cazur can brag wouldn’t be around if it weren’t for him. We can also enjoy tilting our friends who play standard with Veil of Summer and it’s slightly less cool cousin Autumn’s Veil . As nice as it is that Cazur is here to hang out, let’s just have another round of applause for Ukkima allowing us to run the powerful counterspells and tech cards in UB. Your Opponents Trying to Win? Just Say No. Counterspells are one of the most powerful tools in magic. “Counter target spell” is up there for the three best words to put on a card. So let’s take a look at some of the best counterspells for the format, the ones you don’t even have to spend mana on! Force of Negation is unbelievably powerful, while hitting the wallet a bit more gently than Force of Will . If you have both, I would absolutely suggest running them in tandem but I’ll be sticking with Negation. Speaking of negation, Pact of Negation is great for winning the game, when there won’t be a next turn. Narset’s Reversal can also help lock in a win by potentially stealing your opponent’s tutor or game winning spell. Even just a slight tax from cards like Miscast , Spell Pierce or Flusterstorm can help stop a lot of wins where your opponent has exact mana. Finally, I just want to offer a quick blurb about some fun (for us, not for our opponents) cards I’ve made room for in this deck. Narset, Parter of Veils is the first card that pops into my head as this girl is rude. Remember Leovold, Emissary of Trest ? This has the same unbelievably cursed effect and dodges creature specific removal. Is your opponent looking for a win out of the yard? Maybe they’re about to resurrect Razaketh the Foulblooded before you’ve even had a turn? Faerie Macabre is here to help you shut that down. One last option I’ve thrown in is Gilded Drake . This is a highly meta-dependent call. I run into a fair amount of hatebears, value generating creatures, and other problematic things that this helps address. There have been some other meta-dependent or potentially budget-busting cards I’ve called out here so there’s a pretty big maybeboard for this deck. Take a look at it and see if there are any cards you think you’d rather include. The full list is below. Full Decklist Alright! That’s all folks! Thanks a ton for reading through this article. I wish you good luck and happy hunting with either of these decks. If you have any commander’s you’d like to see me go over in future articles like this, let me know in the comments or on The Brew Crew Twitter. Next week I’ll be going over yet another Naya commander, as it is the best color combination… Hold on, I think I hear someone ringing The Brew Crew doorbell. Looks like the Azorius Senate. I’ll deal with these schmucks and get back to you as soon as I can.</summary></entry><entry><title type="html">The Godfather (Brawl)</title><link href="https://brewcrew.net/enter%20the%20guildhall/2020/07/13/vito_brawl.html" rel="alternate" type="text/html" title="The Godfather (Brawl)" /><published>2020-07-13T00:00:00-07:00</published><updated>2020-07-13T00:00:00-07:00</updated><id>https://brewcrew.net/enter%20the%20guildhall/2020/07/13/vito_brawl</id><content type="html" xml:base="https://brewcrew.net/enter%20the%20guildhall/2020/07/13/vito_brawl.html">&lt;p&gt;Welcome back for another exciting Brawl deck tech! I know, I know. It’s been a while but I promise between &lt;em&gt;M21&lt;/em&gt; and &lt;em&gt;Jumpstart,&lt;/em&gt; the time for Brawl has never been better. With Wizards announcing recently that Brawl will now be available every day for &lt;em&gt;free&lt;/em&gt; and Historic Brawl seeing a little more attention from the big guys upstairs, we are truly living in a Golden Age. It does bring up the question of will we still be seeing powerful old legends backfilled into the format like we did in the Guildhalls. For now I’m going to revel in the ability to play my favorite format every day!&lt;/p&gt;
-
-&lt;p&gt;So, let’s celebrate the only way I know how… brewing a new deck chock full synergy, power, and a dash of ruthlessness.  I’m about to make a deck you can’t refuse…&lt;/p&gt;
-
-&lt;div&gt;
-    
-    &lt;div class=&quot;text-center&quot;&gt;
-        &lt;img src=&quot;https://media.giphy.com/media/3o7bufgPP70ra2ZVi8/giphy.gif&quot; style=&quot;max-width: 100%;&quot; class=&quot;img-fluid&quot; /&gt;
-    &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;My family has &lt;em&gt;finally&lt;/em&gt; gotten around to watching the Corleone crime saga and if nothing else is bringing us together in Quarantine, it’s Michael cleaning house of the snitches and hooligans that have tried to have him and his family killed. As Godfather he continues to create a crime empire that spans the country and knows no rivals.&lt;/p&gt;
-
-&lt;p&gt;That might be a little out of scope for a deck build, but here at The Brew Crew world domination is never far from our mind…instead we’ll focus on Michael’s inspiration for his long lasting empire! Nothing Al Pacino does would be possible without the foundation laid by his father, Vito.&lt;/p&gt;
-
-&lt;div&gt;
-    
-    &lt;div class=&quot;text-center&quot;&gt;
-        &lt;img src=&quot;/assets/images/homebrewed/vito/vitofather.png&quot; style=&quot;max-width: 25%;&quot; class=&quot;img-fluid&quot; /&gt;
-    &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Core Set 2021&lt;/em&gt; Introduced us to 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/127/vito-thorn-of-the-dusk-rose?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/0/f/0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5.jpg?1592761215' width=100% height=100%&amp;gt;&quot;&gt;
-	Vito, Thorn of the Dusk Rose
-&lt;/a&gt; and lemme tell ya, I’m impressed. Taking a classic &lt;em&gt;Magic&lt;/em&gt; enchantment like 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ima/107/sanguine-bond?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/d/c/dc236d85-dfe5-4bc8-b116-8306b0922abf.jpg?1562854675' width=100% height=100%&amp;gt;&quot;&gt;
-	Sanguine Bond
-&lt;/a&gt;, throwing it on a stick for two mana less is great. With the right crew, I don’t think it’ll take much to reach Vito’s maximum potential and before long our opponents will be sleeping with the fishes.&lt;/p&gt;
-
-&lt;h2 id=&quot;one-for-me-two-for-you&quot;&gt;One for Me, Two For You&lt;/h2&gt;
-
-&lt;p&gt;Ah pinging, the shin-kicks of &lt;em&gt;Magic&lt;/em&gt;. Always annoying and not lethal by itself but still capable of inflicting a serious amount of damage. With Vito out, that trouble is doubled. Think of these guys as the street level enforcers.&lt;/p&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;row&quot;&gt;
-            
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://img.scryfall.com/cards/large/front/3/d/3d44b342-f611-4836-a9d5-83b00a24318f.jpg?1584830624&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://img.scryfall.com/cards/large/front/e/d/ed0ace28-9a33-4f0d-b8c8-f5517f20ccf1.jpg?1572490057&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://img.scryfall.com/cards/large/front/0/4/0430db1a-5cad-4444-ba93-57fb32e65606.jpg?1592516651&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-            
-        &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;div&gt;
-    
-    &lt;div class=&quot;text-center&quot;&gt;
-        &lt;img src=&quot;https://img.scryfall.com/cards/large/front/4/f/4fb036e2-8f6a-4c47-b194-12ca2e5f43de.jpg?1573510613&quot; style=&quot;max-width: 33%;&quot; class=&quot;img-fluid&quot; /&gt;
-    &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-For each life gained, we’ll be dealing more damage directly to our opponents, essentially halving their clock with one of these repeatable engines on the board.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/rna/77/ill-gotten-inheritance?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/3/d/3d44b342-f611-4836-a9d5-83b00a24318f.jpg?1584830624' width=100% height=100%&amp;gt;&quot;&gt;
-	Ill-Gotten Inheritance
-&lt;/a&gt;&lt;/strong&gt; was a draft all star, ending games if you didn’t have an answer. While it’s a little slow for Standard, it fits just perfectly into our Vito shell. Add on the sac ability to potentially deal &lt;strong&gt;eight damage&lt;/strong&gt; to our opponent?? This card should definitely not be taken lightly.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/75/ayara-first-of-locthwain?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/e/d/ed0ace28-9a33-4f0d-b8c8-f5517f20ccf1.jpg?1572490057' width=100% height=100%&amp;gt;&quot;&gt;
-	Ayara, First of Locthwain
-&lt;/a&gt;&lt;/strong&gt; joins forces with 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/107/syr-konrad-the-grim?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/a/8/a808868f-aea8-4651-9357-85a4d7b4f290.jpg?1572490254' width=100% height=100%&amp;gt;&quot;&gt;
-	Syr Konrad, the Grim
-&lt;/a&gt; to just hammer our opponents for any creature entering the battlefield, leaving the battlefield, never reaching the battlefield. No matter what any other creature is doing - it’ll bring the pain to whoever is on the other side of the table.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m20/96/dread-presence?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/0/4/0430db1a-5cad-4444-ba93-57fb32e65606.jpg?1592516651' width=100% height=100%&amp;gt;&quot;&gt;
-	Dread Presence
-&lt;/a&gt;&lt;/strong&gt; requires a couple land drops, but for the ability to deal two-to-four damage per turn outside of combat, this is not a hard condition to meet. Also, if Vito is currently unavailable - locked in his office listening to the plea of a fishmonger (since no Sicilian can deny a request on his daughter’s wedding day), Dread Presence can be drawing you an extra card per turn 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cn2/144/phyrexian-arena?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/c/8/c87d2e75-aa91-4657-b8c0-c399ff9331e0.jpg?1576382721' width=100% height=100%&amp;gt;&quot;&gt;
-	Phyrexian Arena
-&lt;/a&gt; style. It’s incredibly versatile.&lt;/p&gt;
-
-&lt;p&gt;Okay, okay hear me out on
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/124/tavern-swindler?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/d/0/d00850e4-6be3-4246-ae45-c0e990e6d6e1.jpg?1592761197' width=100% height=100%&amp;gt;&quot;&gt;
-	Tavern Swindler
-&lt;/a&gt;. In most decks, terrible. In the long run you’ll be gaining just as much life as you’re losing and the odds just aren’t worth it. But, &lt;em&gt;but&lt;/em&gt;, in a deck that capitalizes on the mere act of gaining life this card is pretty buckwild. Consider the average of gaining six life every other turn, now consider that with Vito on the board. We’re going to be dealing six damage directly to our opponents on a fairly regular basis without even attacking! Even if it takes us a few turns to start the pain train, this deck sports enough life gain to make the sacrifice worth it.&lt;/p&gt;
-
-&lt;p&gt;…And of course in some games, you’ll be hitting your opponent for sixevery turn. &lt;strong&gt;Editor’s note: This is coming from a guy who runs 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/bbd/6/okaun-eye-of-chaos?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/d/5/d53ee8c0-b27c-4556-b610-ff64edb7a18f.jpg?1562937757' width=100% height=100%&amp;gt;&quot;&gt;
-	Okaun, Eye of Chaos
-&lt;/a&gt; and 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/bbd/5/zndrsplt-eye-of-wisdom?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/7/6/76c33402-a022-4d2f-9a83-4b8ddc04e971.jpg?1562918785' width=100% height=100%&amp;gt;&quot;&gt;
-	Zndrsplt, Eye of Wisdom
-&lt;/a&gt; in Commander so keep an eye on his coin flipping.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Throw in copies of 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/99/serrated-scorpion?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/b/c/bc8f0242-35e1-4409-9321-56e742e8fef4.jpg?1591226960' width=100% height=100%&amp;gt;&quot;&gt;
-	Serrated Scorpion
-&lt;/a&gt;, 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/73/bastion-of-remembrance?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/2/d/2dd354dd-939e-4b1a-8ed6-fe89a7fd64bf.jpg?1591226582' width=100% height=100%&amp;gt;&quot;&gt;
-	Bastion of Remembrance
-&lt;/a&gt;, and 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/120/sanctum-of-stone-fangs?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/d/1/d1439412-618c-483d-89b9-5ea37f0f1edc.jpg?1592761175' width=100% height=100%&amp;gt;&quot;&gt;
-	Sanctum of Stone Fangs
-&lt;/a&gt; for pinging redundancy and I’d be surprised if our opponent can escape ankles un-shanked.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-bosses&quot;&gt;The Bosses&lt;/h2&gt;
-
-&lt;p&gt;Pinging is all well and good, but things really start getting scary when we’re gaining lots of life &lt;em&gt;on purpose&lt;/em&gt;. Primarily, this means creatures with lifelink swinging in or making use of Vito’s secondary ability.&lt;/p&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;row&quot;&gt;
-            
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://img.scryfall.com/cards/large/front/e/7/e73d8a84-2c0d-423c-89c7-71de0af9e1ac.jpg?1572490190&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://img.scryfall.com/cards/large/front/f/0/f03109b9-54a8-4d68-97c2-e42c7d5c2d41.jpg?1592516634&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://img.scryfall.com/cards/large/front/6/1/61a908e8-6952-46c0-94ec-3962b7a4caef.jpg?1572828437&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-            
-        &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/97/murderous-rider-swift-end?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/e/7/e73d8a84-2c0d-423c-89c7-71de0af9e1ac.jpg?1572490190' width=100% height=100%&amp;gt;&quot;&gt;
-	Murderous Rider
-&lt;/a&gt;&lt;/strong&gt; certainly needs no introduction. As non-conditional creature and planeswalker removal at a decent price, there’s not a black deck that wouldn’t run this card. Throw in the fact that this 2/3 could be dealing four combined damage a turn and it’s all upside. Every self-respecting crime organization needs a hitman.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m20/94/cavalier-of-night?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/f/0/f03109b9-54a8-4d68-97c2-e42c7d5c2d41.jpg?1592516634' width=100% height=100%&amp;gt;&quot;&gt;
-	Cavalier of Night
-&lt;/a&gt;&lt;/strong&gt; is more conditional to activate it’s powerful destroy trigger, but at the end of the day it’s still a 4/5 with lifelink swinging for a potential eight each turn and a recursion ability that can get us back 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/97/murderous-rider-swift-end?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/e/7/e73d8a84-2c0d-423c-89c7-71de0af9e1ac.jpg?1572490190' width=100% height=100%&amp;gt;&quot;&gt;
-	Murderous Rider
-&lt;/a&gt;, 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/90/grimdancer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/8/1/819257c8-9806-48bd-ba49-e117ca31de54.jpg?1591226807' width=100% height=100%&amp;gt;&quot;&gt;
-	Grim Dancer
-&lt;/a&gt;, or even a 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m20/120/vampire-of-the-dire-moon?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/b/3/b3c185b9-5d97-4a5a-af0b-8b9c44dcd235.jpg?1592516807' width=100% height=100%&amp;gt;&quot;&gt;
-	Vampire of the Dire Moon
-&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/rna/273/the-haunt-of-hightower?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/6/1/61a908e8-6952-46c0-94ec-3962b7a4caef.jpg?1572828437' width=100% height=100%&amp;gt;&quot;&gt;
-	The Haunt of Hightower
-&lt;/a&gt;&lt;/strong&gt;, the often overlooked Buy-A-Box promo for Ravnica Allegiance is a weird, but I assure you this vampire can put in some serious work. If your opponent values their life, they cannot let this live. The Haunt will continue to grow each turn with more and more life gained as your opponent loses all their cards. If nothing else, this card will immediately lure any removal your opponent has out of the woodwork. And ya know…the more I look at it, the more I feel like this card is the nega-
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/214/dream-trawler?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/7/d/7d3e97d8-92c7-43c4-bdaf-7b0a6ce7cb5f.jpg?1581481029' width=100% height=100%&amp;gt;&quot;&gt;
-	Dream Trawler
-&lt;/a&gt;…&lt;/p&gt;
-
-&lt;p&gt;I don’t think we’d be too far off to include 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/war/86/dreadhorde-invasion?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/0/4/04c6e42d-991d-4e6b-a900-38480931f79e.jpg?1557576441' width=100% height=100%&amp;gt;&quot;&gt;
-	Dreadhorde Invasion
-&lt;/a&gt; and 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/86/duskfang-mentor?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/f/c/fc38fe5d-6c35-4fff-8f1b-726a0685c6f8.jpg?1591226756' width=100% height=100%&amp;gt;&quot;&gt;
-	Duskfang Mentor
-&lt;/a&gt; either. While not as flashy as the other lifelinkers, the support is very much appreciated.&lt;/p&gt;
-
-&lt;h2 id=&quot;obliteration&quot;&gt;Obliteration&lt;/h2&gt;
-&lt;div&gt;
-    
-    &lt;div class=&quot;text-center&quot;&gt;
-        &lt;img src=&quot;https://media.giphy.com/media/l0Iy2AFCoRuXIiwE0/giphy.gif&quot; style=&quot;max-width: 100%;&quot; class=&quot;img-fluid&quot; /&gt;
-    &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-All good things must eventually come to an end, and our games are no exception. After a while, it becomes tiring playing with our opponent’s life total, toying with them, and now it’s time to deal the killing blow. But where do we look for a card that could gain us an obscene amount of life to deal that much damage to our opponents??&lt;/p&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;row&quot;&gt;
-            
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://img.scryfall.com/cards/large/front/7/c/7c1a7dd8-8034-4f59-a351-33666b26ff5a.jpg?1581479807&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://img.scryfall.com/cards/large/front/8/8/88e35c80-6cfe-49fc-8138-562233ccf987.jpg?1581479768&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://img.scryfall.com/cards/large/front/c/d/cdd32ec2-02a8-41fc-bf45-c9585bb2b3ee.jpg?1562614902&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-            
-        &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-I don’t know what Asphodel’s got going on, but it’s straight up scary when Vito comes to town. Our other main win-con is 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/94/ereboss-intervention?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/8/8/88e35c80-6cfe-49fc-8138-562233ccf987.jpg?1581479768' width=100% height=100%&amp;gt;&quot;&gt;
-	Erebos’s Intervention
-&lt;/a&gt; which trades devotion for paying mana, but we don’t get to hit twice. For consistency, we’ll include a 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/103/grim-tutor?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/9/2/928558ab-e29a-44cb-ac2f-88443571f41a.jpg?1592761078' width=100% height=100%&amp;gt;&quot;&gt;
-	Grim Tutor
-&lt;/a&gt; (which costs a single wild card! Booyah!!), and some other powerful black cards like 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/114/massacre-wurm?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/e/3/e3185b01-0d91-4927-98e9-bc9df6c20917.jpg?1592761140' width=100% height=100%&amp;gt;&quot;&gt;
-	Massacre Wurm
-&lt;/a&gt; just to cover our bases. 90% of the time, Vito will pull through. The other 10% we throw a giant wurm at ‘em and hope for the best.&lt;/p&gt;
-
-&lt;h2 id=&quot;in-conclusion&quot;&gt;In Conclusion&lt;/h2&gt;
-
-&lt;p&gt;So there you have it! Whether you want to start your own criminal empire, or just drive your opponents into a rage with every life gained - Vito is your guy. A low cost commander who can enter the board quick and immediately start pulling his weight with the first 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/248/radiant-fountain?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/0/2/0296c34b-120b-483e-8b49-6d432c04f9a4.jpg?1592761908' width=100% height=100%&amp;gt;&quot;&gt;
-	Radiant Fountain
-&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;In an initial run, Vito went 3-2 with losses to 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m20/220/yarok-the-desecrated?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/a/1/a1001d43-e11b-4e5e-acd4-4a50ef89977f.jpg?1592517590' width=100% height=100%&amp;gt;&quot;&gt;
-	Yarok, the Desecrated
-&lt;/a&gt; and a 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/71/thassa-deep-dwelling?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/c/8/c83ed3e0-82d0-4410-a6ca-b0f923eadf83.jpg?1581479572' width=100% height=100%&amp;gt;&quot;&gt;
-	Thassa, Deep-Dwelling
-&lt;/a&gt;/
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m20/43/agent-of-treachery?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/c/c/cc6686e6-4535-49be-b0b3-e76464656cd2.jpg?1592516257' width=100% height=100%&amp;gt;&quot;&gt;
-	Agent of Treachery
-&lt;/a&gt; soft-lock. Wins against 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/war/208/niv-mizzet-reborn?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/5/6/56a2609d-b535-400b-81d9-72989a33c70f.jpg?1582037402' width=100% height=100%&amp;gt;&quot;&gt;
-	Niv-Mizzet, Reborn
-&lt;/a&gt;, 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/192/kinnan-bonder-prodigy?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/6/3/63cda4a0-0dff-4edb-ae67-a2b7e2971350.jpg?1591228085' width=100% height=100%&amp;gt;&quot;&gt;
-	Kinnan, Bonder Prodigy
-&lt;/a&gt;, and 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/190/illuna-apex-of-wishes?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/9/f/9fc99c81-d112-4811-9bba-77a14d904692.jpg?1591228061' width=100% height=100%&amp;gt;&quot;&gt;
-	Illuna, Apex of Wishes
-&lt;/a&gt; have me feeling pretty confident in the power level of this deck before any fine-tuning. Some things to keep in note though: you always, &lt;em&gt;always&lt;/em&gt; want to start with a low-cost lifelinker in your hand. Being able to drop a 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/76/boot-nipper?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/c/f/cff5a5b8-f823-4429-acd8-c4f34a676cb4.jpg?1591226621' width=100% height=100%&amp;gt;&quot;&gt;
-	Boot Nipper
-&lt;/a&gt; or 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/90/grimdancer&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/large/front/8/1/819257c8-9806-48bd-ba49-e117ca31de54.jpg?1591226807' width=100% height=100%&amp;gt;&quot;&gt;
-	Grimdancer
-&lt;/a&gt; early is vital for success in ramping up the damage by the time your opponent is able to respond.&lt;/p&gt;
-
-&lt;p&gt;I’d also really consider getting a 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/103/grim-tutor?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/9/2/928558ab-e29a-44cb-ac2f-88443571f41a.jpg?1592761078' width=100% height=100%&amp;gt;&quot;&gt;
-	Grim Tutor
-&lt;/a&gt; if you want to play this deck or anything mono-black in general. The sheer versatility to grab either of our finishers or a removal spell is key, and directly responsible for our Kinnan win by being able to fetch 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/99/gray-merchant-of-asphodel?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/7/c/7c1a7dd8-8034-4f59-a351-33666b26ff5a.jpg?1581479807' width=100% height=100%&amp;gt;&quot;&gt;
-	Gray Merchant of Asphodel
-&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;That’s it for this brew! If you think I’m missing anything, or you’ve had more Vito success, let us know below!&lt;/p&gt;
-
-&lt;div class=&quot;text-center&quot;&gt;
-&lt;h3&gt;Vito Corleone&lt;/h3&gt;
-&lt;/div&gt;
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-2&quot;&gt;&lt;/div&gt;
-    &lt;div class=&quot;col-md-8&quot;&gt;
-        &lt;div class=&quot;row&quot;&gt;
-            &lt;div class=&quot;col-6&quot;&gt;
-				&lt;b&gt;Creatures&lt;/b&gt;
-				&lt;p class=&quot;mb-0&quot;&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/75/ayara-first-of-locthwain?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/e/d/ed0ace28-9a33-4f0d-b8c8-f5517f20ccf1.jpg?1572490057' width=100% height=100%&amp;gt;&quot;&gt;
-	Ayara, First of Locthwain
-&lt;/a&gt;
-					&lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/79/blacklance-paragon?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/f/e/fe0a63bb-dd94-429f-aa9b-21f3d1c53ae5.jpg?1572490086' width=100% height=100%&amp;gt;&quot;&gt;
-	Blacklance Paragon
-&lt;/a&gt;
-					&lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m20/91/bloodthirsty-aerialist&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/2/9/29156f28-38d8-4f65-b416-089f3fd97109.jpg?1592516615' width=100% height=100%&amp;gt;&quot;&gt;
-	Bloodthirsty Aerialist
-&lt;/a&gt;
-					&lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/76/boot-nipper?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/c/f/cff5a5b8-f823-4429-acd8-c4f34a676cb4.jpg?1591226621' width=100% height=100%&amp;gt;&quot;&gt;
-	Boot Nipper
-&lt;/a&gt;
-					&lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/216/cauldron-familiar?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/3/2/32cf273e-b8f7-434b-9d5d-883dfd6f7423.jpg?1592706446' width=100% height=100%&amp;gt;&quot;&gt;
-	Cauldron Familiar
-&lt;/a&gt;
-					&lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m20/94/cavalier-of-night?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/f/0/f03109b9-54a8-4d68-97c2-e42c7d5c2d41.jpg?1592516634' width=100% height=100%&amp;gt;&quot;&gt;
-	Cavalier of Night
-&lt;/a&gt;
-					&lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/84/clackbridge-troll?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/8/5/85929131-4df6-415c-b592-aefb2943c477.jpg?1572490116' width=100% height=100%&amp;gt;&quot;&gt;
-	Clackbridge Troll
-&lt;/a&gt;
-					&lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m20/96/dread-presence?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/0/4/0430db1a-5cad-4444-ba93-57fb32e65606.jpg?1592516651' width=100% height=100%&amp;gt;&quot;&gt;
-	Dread Presence
-&lt;/a&gt;
-                    &lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/war/92/god-eternal-bontu?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/3/7/3714a135-e2b9-43a7-a2a2-fa5a2e0ac61a.jpg?1557576478' width=100% height=100%&amp;gt;&quot;&gt;
-	God-Eternal Bontu
-&lt;/a&gt;
-					&lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/99/gray-merchant-of-asphodel?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/7/c/7c1a7dd8-8034-4f59-a351-33666b26ff5a.jpg?1581479807' width=100% height=100%&amp;gt;&quot;&gt;
-	Gray Merchant of Asphodel
-&lt;/a&gt;
-					&lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/90/grimdancer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/8/1/819257c8-9806-48bd-ba49-e117ca31de54.jpg?1591226807' width=100% height=100%&amp;gt;&quot;&gt;
-	Grimdancer
-&lt;/a&gt;
-					&lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/114/massacre-wurm?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/e/3/e3185b01-0d91-4927-98e9-bc9df6c20917.jpg?1592761140' width=100% height=100%&amp;gt;&quot;&gt;
-	Massacre Wurm
-&lt;/a&gt;
-                    &lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/474/meteor-golem?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/a/9/a9a086bf-19d2-4827-af2c-a6f57d640782.jpg?1592707940' width=100% height=100%&amp;gt;&quot;&gt;
-	Meteor Golem
-&lt;/a&gt;
-					&lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/97/murderous-rider-swift-end?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/e/7/e73d8a84-2c0d-423c-89c7-71de0af9e1ac.jpg?1572490190' width=100% height=100%&amp;gt;&quot;&gt;
-	Murderous Rider
-&lt;/a&gt;
-					&lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/99/order-of-midnight-alter-fate?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/3/3/330cc452-4382-401d-9432-ac27ae6e27ad.jpg?1572490205' width=100% height=100%&amp;gt;&quot;&gt;
-	Order of Midnight
-&lt;/a&gt;
-					&lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/99/serrated-scorpion?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/b/c/bc8f0242-35e1-4409-9321-56e742e8fef4.jpg?1591226960' width=100% height=100%&amp;gt;&quot;&gt;
-	Serrated Scorpion
-&lt;/a&gt;
-                    &lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/239/solemn-simulacrum?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/7/b/7bbd2cab-538e-4932-a828-150e3e9d52ad.jpg?1592761859' width=100% height=100%&amp;gt;&quot;&gt;
-	Solemn Simulacrum
-&lt;/a&gt;
-					&lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/107/syr-konrad-the-grim?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/a/8/a808868f-aea8-4651-9357-85a4d7b4f290.jpg?1572490254' width=100% height=100%&amp;gt;&quot;&gt;
-	Syr Konrad, the Grim
-&lt;/a&gt;
-					&lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/rna/273/the-haunt-of-hightower?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/6/1/61a908e8-6952-46c0-94ec-3962b7a4caef.jpg?1572828437' width=100% height=100%&amp;gt;&quot;&gt;
-	The Haunt of Hightower
-&lt;/a&gt;
-					&lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/119/tymaret-chosen-from-death?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/1/4/14b28eae-e8ed-4b99-b6ec-86d0716ec473.jpg?1581480007' width=100% height=100%&amp;gt;&quot;&gt;
-	Tymaret, Chosen from Death
-&lt;/a&gt;
-                    &lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m20/120/vampire-of-the-dire-moon&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/b/3/b3c185b9-5d97-4a5a-af0b-8b9c44dcd235.jpg?1592516807' width=100% height=100%&amp;gt;&quot;&gt;
-	Vampire of the Dire Moon
-&lt;/a&gt;
-				&lt;/p&gt;
-			&lt;/div&gt;
-			&lt;div class=&quot;col-6&quot;&gt;
-                &lt;b&gt;Enchantments&lt;/b&gt;
-				&lt;p class=&quot;mb-0&quot;&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/73/bastion-of-remembrance?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/2/d/2dd354dd-939e-4b1a-8ed6-fe89a7fd64bf.jpg?1591226582' width=100% height=100%&amp;gt;&quot;&gt;
-	Bastion of Remembrance
-&lt;/a&gt;
-                    &lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/war/86/dreadhorde-invasion?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/0/4/04c6e42d-991d-4e6b-a900-38480931f79e.jpg?1557576441' width=100% height=100%&amp;gt;&quot;&gt;
-	Dreadhorde Invasion
-&lt;/a&gt;
-					&lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/rna/77/ill-gotten-inheritance?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/3/d/3d44b342-f611-4836-a9d5-83b00a24318f.jpg?1584830624' width=100% height=100%&amp;gt;&quot;&gt;
-	Ill-Gotten Inheritance
-&lt;/a&gt;
-					&lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/120/sanctum-of-stone-fangs?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/d/1/d1439412-618c-483d-89b9-5ea37f0f1edc.jpg?1592761175' width=100% height=100%&amp;gt;&quot;&gt;
-	Sanctum of Stone Fangs
-&lt;/a&gt;
-					&lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/121/underworld-dreams?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/0/3/03919c86-1c4a-43b0-a2db-54ca6ae1ac57.jpg?1581480025' width=100% height=100%&amp;gt;&quot;&gt;
-	Underworld Dreams
-&lt;/a&gt;
-				&lt;/p&gt;
-				&lt;b&gt;Instants&lt;/b&gt;
-				&lt;p class=&quot;mb-0&quot;&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/94/ereboss-intervention?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/8/8/88e35c80-6cfe-49fc-8138-562233ccf987.jpg?1581479768' width=100% height=100%&amp;gt;&quot;&gt;
-	Erebos's Intervention
-&lt;/a&gt;
-                    &lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/91/heartless-act?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/e/4/e4e6794a-feeb-4fc8-a2ee-38c75c18aaae.jpg?1591226819' width=100% height=100%&amp;gt;&quot;&gt;
-	Heartless Act
-&lt;/a&gt;
-					&lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m20/109/murder?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/6/a/6a2b22bc-e81b-4f27-a52b-9f3edad25439.jpg?1592516737' width=100% height=100%&amp;gt;&quot;&gt;
-	Murder
-&lt;/a&gt;
-					&lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/111/pharikas-libation?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/0/3/0307bb5c-0a46-4f6b-b6d5-58cf31987bb5.jpg?1581479925' width=100% height=100%&amp;gt;&quot;&gt;
-	Pharika's Libation
-&lt;/a&gt;
-					&lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/grn/83/price-of-fame?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/6/1/61b52152-0f7c-4466-9e49-033477028f67.jpg?1572893038' width=100% height=100%&amp;gt;&quot;&gt;
-	Price of Fame
-&lt;/a&gt;
-				&lt;/p&gt;
-				&lt;b&gt;Artifacts&lt;/b&gt;
-				&lt;p class=&quot;mb-0&quot;&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c20/237/arcane-signet?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/1/4/1486170d-4ad3-4318-bf72-f948617d567f.jpg?1591321552' width=100% height=100%&amp;gt;&quot;&gt;
-	Arcane Signet
-&lt;/a&gt;
-                    &lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/332/tome-of-legends?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/0/4/040301e8-20c1-4f4c-8766-d05f11415efd.jpg?1572482851' width=100% height=100%&amp;gt;&quot;&gt;
-	Tome of Legends
-&lt;/a&gt;
-					&lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/237/witchs-oven?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/0/4/04ef8493-d986-45f8-a718-617b028f7ad4.jpg?1572491150' width=100% height=100%&amp;gt;&quot;&gt;
-	Witch's Oven
-&lt;/a&gt;
-				&lt;/p&gt;
-                &lt;b&gt;Sorceries&lt;/b&gt;
-				&lt;p class=&quot;mb-0&quot;&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/103/grim-tutor?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/9/2/928558ab-e29a-44cb-ac2f-88443571f41a.jpg?1592761078' width=100% height=100%&amp;gt;&quot;&gt;
-	Grim Tutor
-&lt;/a&gt;
-				&lt;/p&gt;
-				&lt;b&gt;Lands&lt;/b&gt;
-				&lt;p class=&quot;mb-0&quot;&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/241/castle-locthwain?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/1/9/195383c1-4723-40b0-ba53-298dfd8e30d0.jpg?1572491183' width=100% height=100%&amp;gt;&quot;&gt;
-	Castle Locthwain
-&lt;/a&gt;
-					&lt;br /&gt;
-					1x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/248/radiant-fountain?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/0/2/0296c34b-120b-483e-8b49-6d432c04f9a4.jpg?1592761908' width=100% height=100%&amp;gt;&quot;&gt;
-	Radiant Fountain
-&lt;/a&gt;
-					&lt;br /&gt;
-					22x 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/54/swamp?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/0/6/06e0edda-1943-47a3-9ad3-673b38f42c86.jpg?1592705579' width=100% height=100%&amp;gt;&quot;&gt;
-	Swamp
-&lt;/a&gt;
-				&lt;/p&gt;
-			&lt;/div&gt;
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;unlimited-power&quot;&gt;Unlimited Power&lt;/h2&gt;
-
-&lt;div&gt;
-    
-    &lt;div class=&quot;text-center&quot;&gt;
-        &lt;img src=&quot;https://i.imgur.com/cJlBUVL.gif?noredirect&quot; style=&quot;max-width: 100%;&quot; class=&quot;img-fluid&quot; /&gt;
-    &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ya know I just had a thought. Isn’t 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/231/exquisite-blood?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/b/1/b1653811-1c2c-4e6c-bf1c-287d1b496d51.jpg?1592706532' width=100% height=100%&amp;gt;&quot;&gt;
-	Exquisite Blood
-&lt;/a&gt; going into Historic? We might just have had an idea for our first official Historic Brawl deck…&lt;/p&gt;</content><author><name>chev</name></author><category term="Brawl" /><summary type="html">Welcome back for another exciting Brawl deck tech! I know, I know. It’s been a while but I promise between M21 and Jumpstart, the time for Brawl has never been better. With Wizards announcing recently that Brawl will now be available every day for free and Historic Brawl seeing a little more attention from the big guys upstairs, we are truly living in a Golden Age. It does bring up the question of will we still be seeing powerful old legends backfilled into the format like we did in the Guildhalls. For now I’m going to revel in the ability to play my favorite format every day! So, let’s celebrate the only way I know how… brewing a new deck chock full synergy, power, and a dash of ruthlessness. I’m about to make a deck you can’t refuse… My family has finally gotten around to watching the Corleone crime saga and if nothing else is bringing us together in Quarantine, it’s Michael cleaning house of the snitches and hooligans that have tried to have him and his family killed. As Godfather he continues to create a crime empire that spans the country and knows no rivals. That might be a little out of scope for a deck build, but here at The Brew Crew world domination is never far from our mind…instead we’ll focus on Michael’s inspiration for his long lasting empire! Nothing Al Pacino does would be possible without the foundation laid by his father, Vito. Core Set 2021 Introduced us to Vito, Thorn of the Dusk Rose and lemme tell ya, I’m impressed. Taking a classic Magic enchantment like Sanguine Bond , throwing it on a stick for two mana less is great. With the right crew, I don’t think it’ll take much to reach Vito’s maximum potential and before long our opponents will be sleeping with the fishes. One for Me, Two For You Ah pinging, the shin-kicks of Magic. Always annoying and not lethal by itself but still capable of inflicting a serious amount of damage. With Vito out, that trouble is doubled. Think of these guys as the street level enforcers. For each life gained, we’ll be dealing more damage directly to our opponents, essentially halving their clock with one of these repeatable engines on the board. Ill-Gotten Inheritance was a draft all star, ending games if you didn’t have an answer. While it’s a little slow for Standard, it fits just perfectly into our Vito shell. Add on the sac ability to potentially deal eight damage to our opponent?? This card should definitely not be taken lightly. Ayara, First of Locthwain joins forces with Syr Konrad, the Grim to just hammer our opponents for any creature entering the battlefield, leaving the battlefield, never reaching the battlefield. No matter what any other creature is doing - it’ll bring the pain to whoever is on the other side of the table. Dread Presence requires a couple land drops, but for the ability to deal two-to-four damage per turn outside of combat, this is not a hard condition to meet. Also, if Vito is currently unavailable - locked in his office listening to the plea of a fishmonger (since no Sicilian can deny a request on his daughter’s wedding day), Dread Presence can be drawing you an extra card per turn Phyrexian Arena style. It’s incredibly versatile. Okay, okay hear me out on Tavern Swindler . In most decks, terrible. In the long run you’ll be gaining just as much life as you’re losing and the odds just aren’t worth it. But, but, in a deck that capitalizes on the mere act of gaining life this card is pretty buckwild. Consider the average of gaining six life every other turn, now consider that with Vito on the board. We’re going to be dealing six damage directly to our opponents on a fairly regular basis without even attacking! Even if it takes us a few turns to start the pain train, this deck sports enough life gain to make the sacrifice worth it. …And of course in some games, you’ll be hitting your opponent for sixevery turn. Editor’s note: This is coming from a guy who runs Okaun, Eye of Chaos and Zndrsplt, Eye of Wisdom in Commander so keep an eye on his coin flipping. Throw in copies of Serrated Scorpion , Bastion of Remembrance , and Sanctum of Stone Fangs for pinging redundancy and I’d be surprised if our opponent can escape ankles un-shanked. The Bosses Pinging is all well and good, but things really start getting scary when we’re gaining lots of life on purpose. Primarily, this means creatures with lifelink swinging in or making use of Vito’s secondary ability. Murderous Rider certainly needs no introduction. As non-conditional creature and planeswalker removal at a decent price, there’s not a black deck that wouldn’t run this card. Throw in the fact that this 2/3 could be dealing four combined damage a turn and it’s all upside. Every self-respecting crime organization needs a hitman. Cavalier of Night is more conditional to activate it’s powerful destroy trigger, but at the end of the day it’s still a 4/5 with lifelink swinging for a potential eight each turn and a recursion ability that can get us back Murderous Rider , Grim Dancer , or even a Vampire of the Dire Moon . The Haunt of Hightower , the often overlooked Buy-A-Box promo for Ravnica Allegiance is a weird, but I assure you this vampire can put in some serious work. If your opponent values their life, they cannot let this live. The Haunt will continue to grow each turn with more and more life gained as your opponent loses all their cards. If nothing else, this card will immediately lure any removal your opponent has out of the woodwork. And ya know…the more I look at it, the more I feel like this card is the nega- Dream Trawler … I don’t think we’d be too far off to include Dreadhorde Invasion and Duskfang Mentor either. While not as flashy as the other lifelinkers, the support is very much appreciated. Obliteration All good things must eventually come to an end, and our games are no exception. After a while, it becomes tiring playing with our opponent’s life total, toying with them, and now it’s time to deal the killing blow. But where do we look for a card that could gain us an obscene amount of life to deal that much damage to our opponents?? I don’t know what Asphodel’s got going on, but it’s straight up scary when Vito comes to town. Our other main win-con is Erebos’s Intervention which trades devotion for paying mana, but we don’t get to hit twice. For consistency, we’ll include a Grim Tutor (which costs a single wild card! Booyah!!), and some other powerful black cards like Massacre Wurm just to cover our bases. 90% of the time, Vito will pull through. The other 10% we throw a giant wurm at ‘em and hope for the best. In Conclusion So there you have it! Whether you want to start your own criminal empire, or just drive your opponents into a rage with every life gained - Vito is your guy. A low cost commander who can enter the board quick and immediately start pulling his weight with the first Radiant Fountain . In an initial run, Vito went 3-2 with losses to Yarok, the Desecrated and a Thassa, Deep-Dwelling / Agent of Treachery soft-lock. Wins against Niv-Mizzet, Reborn , Kinnan, Bonder Prodigy , and Illuna, Apex of Wishes have me feeling pretty confident in the power level of this deck before any fine-tuning. Some things to keep in note though: you always, always want to start with a low-cost lifelinker in your hand. Being able to drop a Boot Nipper or Grimdancer early is vital for success in ramping up the damage by the time your opponent is able to respond. I’d also really consider getting a Grim Tutor if you want to play this deck or anything mono-black in general. The sheer versatility to grab either of our finishers or a removal spell is key, and directly responsible for our Kinnan win by being able to fetch Gray Merchant of Asphodel . That’s it for this brew! If you think I’m missing anything, or you’ve had more Vito success, let us know below! Vito Corleone Creatures 1x Ayara, First of Locthwain 1x Blacklance Paragon 1x Bloodthirsty Aerialist 1x Boot Nipper 1x Cauldron Familiar 1x Cavalier of Night 1x Clackbridge Troll 1x Dread Presence 1x God-Eternal Bontu 1x Gray Merchant of Asphodel 1x Grimdancer 1x Massacre Wurm 1x Meteor Golem 1x Murderous Rider 1x Order of Midnight 1x Serrated Scorpion 1x Solemn Simulacrum 1x Syr Konrad, the Grim 1x The Haunt of Hightower 1x Tymaret, Chosen from Death 1x Vampire of the Dire Moon Enchantments 1x Bastion of Remembrance 1x Dreadhorde Invasion 1x Ill-Gotten Inheritance 1x Sanctum of Stone Fangs 1x Underworld Dreams Instants 1x Erebos's Intervention 1x Heartless Act 1x Murder 1x Pharika's Libation 1x Price of Fame Artifacts 1x Arcane Signet 1x Tome of Legends 1x Witch's Oven Sorceries 1x Grim Tutor Lands 1x Castle Locthwain 1x Radiant Fountain 22x Swamp Unlimited Power Ya know I just had a thought. Isn’t Exquisite Blood going into Historic? We might just have had an idea for our first official Historic Brawl deck…</summary></entry></feed>
+&lt;p&gt;Alright! That’s all folks! Thanks a ton for reading through this article. I wish you good luck and happy hunting with either of these decks. If you have any commander’s you’d like to see me go over in future articles like this, let me know in the comments or on &lt;em&gt;The Brew Crew&lt;/em&gt; Twitter. Next week I’ll be going over yet another Naya commander, as it is the best color combination… Hold on, I think I hear someone ringing &lt;em&gt;The Brew Crew&lt;/em&gt; doorbell. Looks like the Azorius Senate. I’ll deal with these schmucks and get back to you as soon as I can.&lt;/p&gt;</content><author><name>eric</name></author><category term="Commander" /><summary type="html">Welcome back to another article in The Top Shelf series. This week we will be dipping back into the well of commander precons. C20 featured the return of Partners with, a mechanic I found very interesting and was happy to see again. I think that Partners with outshines the original Partners mechanic because it allows the design team to build in bespoke synergies or game plans with a lower risk of accidentally creating something overpowered. In an effort to branch out from my comfort colors of Naya, I’ll be looking at a Sultai deck this week! (I won’t give up green, you can’t make me. I have rights!) Cazur, Ruthless Stalker and Ukkima, Stalking Shadow are great partners, where the synergy immediately jumps out at you. Swing in with Ukkima to get buffs from Cazur and quickly snowball into a commander damage win or burn for a bunch when your whale wolf leaves the battlefield. In this article we will be exploring a build that falls into this high synergy, partner focused, category and a very interesting competitive take utilizing Food Chain combos. The Power to Bite Let’s jump into our budget list first. The deck should run you under $200 and offer a well-tuned gameplan. It will focus on beefing up Ukkima, Stalking Shadow to land powerful hits and to punish our opponents for removing him. We want Ukkima’s growth to be permanent, so we are going to be focusing mainly on +1/+1 counters as opposed to combat tricks and temporary buffs. When building this deck, my mind immediately jumped to cards like Hardened Scales , Winding Constrictor , and Corpsejack Menace . These cards will give us significant incremental growth to bolster the counters we are already building up on Ukkima. Strategies that rely on counters always love Proliferate, so we can toss in Thrummingbird and Inexorable Tide as well. Finally, I always find it helpful to sometimes just win the game, so let’s have Simic Ascendancy as our cherry on top. There are a few all-star cards when it comes to +1/+1 counters we get to include that I’m very excited about. Reyhan, Last of the Abzan is great at saving the counters from our dying creatures and getting them back on Ukkima where they belong. Forgotten Ancient also does a great job of sharing the wealth of +1/+1 counters, eventually funneling them onto our favorite Whale Wolf. Vorel of the Hull Clade and Hydra’s Growth let us stomp on the gas and kill our opponents much faster by just doubling the counters on Ukkima. Speaking of killing our opponents quickly… Don’t tell anyone I told you, but Tainted Strike is super gross in this deck and you should absolutely run it. I can’t say it’ll win you friends but I’ll be damned if it doesn’t win games. Now that Ukkima is big, we’ve painted a target on our backs. People will try to lock him down but may be careful about killing him for fear of the damage he’ll do when he dies. I expect to see a fair amount of hate aimed at us as soon as Ukkima’s any larger than 6/6. We can always try to prevent his destruction, but then we have to go through the whole rigmarole that is the commander tax and dodging counterspells. Instead let’s just swerve that and blink that boi! Displace and Ghostly Flicker are spells that will help us save Ukkima and Cazur from any targeted removal. Evacuation and Flood of Tears act as the nuclear option, allowing us to fully reset the board, sometimes we even get to put Ukkima or another key creature right back into play. Under the Sea: Darlin blue’s better, down where it’s wetter, take it from me! Let’s talk draw. In our last Top Shelf article we were relying on green to move through our deck… Spoiler: that’s not very good. In this deck we’ll still be looking to green for cards like Greater Good to help with drawing cards, but now that we have blue and black a lot of new doors are open to us. Cold-Eyed Selkie and Edric, Spymaster of Trest will work very well with Cazur, Ruthless Stalker , allowing us to get more benefits from our attacks and draw some cards. Mystic Remora , also known as THE FISH, will be a great draw tool for us. You’ll never get tired of interrupting your friends with “You gonna pay four for that?” (Another spoiler: they probably won’t be paying four) Of One Mind and Treasure Cruise let you draw multiple cards for one mana in a lot of situations, which is really gonna help us find our powerful cards. Finally, shoutout to Tezzeret’s Gambit for being a totally fine draw spell that also gives us more proliferate. Read the Bones is a classic example of Black’s style of draw, turning in some small portion of your life for resources. Sign in Blood and Night’s Whisper are both similar draw options, so we’ll be running both of those as well. When we combine black with blue we get some unique draw adjacent effects. Fallen Shinobi and Mythos of Brokkos are great examples of resource generation that don’t necessarily fit into the category of draw. Now that we can move through our deck even faster, we want a lot of mana to play as many of these awesome cards as quickly as possible. There’s not a ton of unique ramp in here so I’ll keep this quick. We’re gonna run a standard set of mana dorks like Llanowar Elves and Elvish Mystic as a baseline. Then drop in a nice mix of ramp sorceries. Migration Path is a nice new ramp spell, but who could forget the classics such as Kodama’s Reach and Cultivate . We’ll put all of ‘em in just to be safe. Spells like this are actually going to work really well with Evolution Sage to keep those counters growing. Hunting Tactics: So, we have our battle plan and our pack (pod? pock? We’ll stick with pack) behind us. Now let’s start circling in for the kill. Blue and black are going to give us the ability to easily disrupt our opponent’s game plan as we are working on our own. Counterspell is the OG, but Arcane Denial is a personal favorite. Conditional counterspells and removal are often a great include. It’s pretty easy to find options where either the condition is easy to manipulate or accidentally achieve. Drown in the Loch is a great card in this category. Finally, cards like Putrefy and Beast Within will help us clear out any final permanents stopping Ukkima from going in for the kill. That’s the full story for our first deck. As usual I’ve included some options that you may want to toss in from the maybe board depending on your preference or meta. Take a look at the full list below and let’s head onto our next deck! Full Decklist In R’lyeh We Wait Dreaming Now, the competitive version of this deck is much better known than the Atla Palani, Nest Tender deck from last week, but I’m still excited to give my take on it. As I mentioned earlier, we’re going to be mainly looking for a Food Chain combo to win the game. Eternal Scourge and Misthollow Griffin are both able to be cast from exile after they’re banished to the shadow realm via Food Chain . This will allow us to generate one additional colored mana (which can only be spent on creatures) each time we go through the loop. Repeat said loop an infinite amount of times and Boom! infinite mana! This will allow us to repeatedly cast, Ukkima, Stalking Shadow , who when exiled or returned to the command zone is able to damage equal to his power. So we’ll be looking to end most games by spending our infinite mana casting and exiling him over and over again, wiping the table. I personally do not like Thassa’s Oracle . I think Demonic Consultation and Tainted Pact wins with this card are far too generic and easy to pull off in any UBX shell, BUT! This is one of those UBX shells, so we’ll be running them and I’ll find another time or article to offer my full opinion on this. Jace, Wielder of Mysteries will act as a nice backup to the Oracle. If you happen to feel the same as me, it’s actually really easy to swap out these four cards with Deadeye Navigator , Peregrine Drake , and Palinchron . This also eliminates the need for a singleton manabase, which can help cut down on deck cost. In this version we just create infinite mana then blink Ukkima for the win, instead of exiling him with Food Chain . On the Hunt… For Our Combo Now that we know how to win with this version of the deck, let’s sniff out those combo pieces. Standard black and blue draw are going to help us build a solid foundation to find the cards we’re looking for. Necropotence and Notion Thief will be able to hopefully allow us to draw a lot of cards at once. While we’ll be running some of the more ubiquitous draw spells, like Ponder , Brainstorm , and other cantrips, we get to run some very weird cards that border on being tutors because we are a Food Chain deck. Foresight and Manipulate Fate let us pre-exile either Eternal Scourge or Misthollow Griffin . Extract will also enable our Food Chain combos, but can be used to remove key combo pieces from your opponent’s decks if it comes to it. There are more cards that ride this line between tutoring and drawing cards. Lim-Dul’s Vault and Plunge Into Darkness will allow us to seek specific combo pieces or key cards we need in a moment. These cards are very powerful, but if you play in a meta where chip damage and life total is relevant they should probably be used as a last resort to either lock in your win or stop someone else’s. Almost all of our tutors will be split between those that only find creatures and those that can help us find anything we’d like. Worldly Tutor and Neoform will help us find our creature based win-conditions, but generic tutors can help find those as well. Grim Tutor , Demonic Tutor , and Vampiric Tutor are all going to be awesome for us. We can hunt down any card we need pretty cheaply and efficiently. Cazur is Still Here… Kinda Unlike the more casual version of the deck, Cazur is probably not going to be in play much. He does offer his friend Ukkima certain benefits though, if you know what I mean… Yeah, I’m talking about green ramp. We’ll be stuffing our deck to the gills with mana dorks and other spells to speed up our curve. Bloom Tender and Arbor Elf are often great choices for multi colored decks, as they can generate multiple mana and/or multiple colors of mana. Wall of Roots and Elvish Spirit Guide are great for generating mana quickly and immediately if the need arises. Alternatively, Deathrite Shaman exile key cards from our opponents’ graveyards, potentially even saving a game, when we aren’t using it for mana. For non-creature based mana sources, Carpet of Flowers is still just as good as it was last week. The list of mana artifacts we’ll be running is the same as last week. I’ll be looking more into cool artifacts and artifact focused decks in the future, but for right now I’m not a big enough expert to make any hot takes. To be clear, Cazur isn’t just in the deck to activate our ramp cards. He also turns on some of our powerful interaction spells. Abrupt Decay and Assassin’s Trophy are great removal tools in the deck, that Cazur can brag wouldn’t be around if it weren’t for him. We can also enjoy tilting our friends who play standard with Veil of Summer and it’s slightly less cool cousin Autumn’s Veil . As nice as it is that Cazur is here to hang out, let’s just have another round of applause for Ukkima allowing us to run the powerful counterspells and tech cards in UB. Your Opponents Trying to Win? Just Say No. Counterspells are one of the most powerful tools in magic. “Counter target spell” is up there for the three best words to put on a card. So let’s take a look at some of the best counterspells for the format, the ones you don’t even have to spend mana on! Force of Negation is unbelievably powerful, while hitting the wallet a bit more gently than Force of Will . If you have both, I would absolutely suggest running them in tandem but I’ll be sticking with Negation. Speaking of negation, Pact of Negation is great for winning the game, when there won’t be a next turn. Narset’s Reversal can also help lock in a win by potentially stealing your opponent’s tutor or game winning spell. Even just a slight tax from cards like Miscast , Spell Pierce or Flusterstorm can help stop a lot of wins where your opponent has exact mana. Finally, I just want to offer a quick blurb about some fun (for us, not for our opponents) cards I’ve made room for in this deck. Narset, Parter of Veils is the first card that pops into my head as this girl is rude. Remember Leovold, Emissary of Trest ? This has the same unbelievably cursed effect and dodges creature specific removal. Is your opponent looking for a win out of the yard? Maybe they’re about to resurrect Razaketh the Foulblooded before you’ve even had a turn? Faerie Macabre is here to help you shut that down. One last option I’ve thrown in is Gilded Drake . This is a highly meta-dependent call. I run into a fair amount of hatebears, value generating creatures, and other problematic things that this helps address. There have been some other meta-dependent or potentially budget-busting cards I’ve called out here so there’s a pretty big maybeboard for this deck. Take a look at it and see if there are any cards you think you’d rather include. The full list is below. Full Decklist Alright! That’s all folks! Thanks a ton for reading through this article. I wish you good luck and happy hunting with either of these decks. If you have any commander’s you’d like to see me go over in future articles like this, let me know in the comments or on The Brew Crew Twitter. Next week I’ll be going over yet another Naya commander, as it is the best color combination… Hold on, I think I hear someone ringing The Brew Crew doorbell. Looks like the Azorius Senate. I’ll deal with these schmucks and get back to you as soon as I can.</summary></entry></feed>
